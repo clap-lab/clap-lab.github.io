@@ -50,7 +50,7 @@ We are thrilled to announce two keynote presentations:
 * Suchir Salahan: Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
 * Akari Haga: BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
 * Jaap Jumelet: Extending BLiMP To Many Languages <br>
-* Yevgen Matusevych: Evaluating Cross-Lingual Transfer from English and Chinese <br>
+* Yevgen Matusevych: Evaluating Cross-Lingual Transfer from English and Chinese <br> 
 
 ---
 
