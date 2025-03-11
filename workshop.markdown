@@ -34,7 +34,7 @@ We are thrilled to announce two keynote presentations:
 - **Idea Pitches** – Have an idea but need expertise? Join focused small-group discussions to exchange knowledge.  
 - **Workshop Dinner** – Continuing our tradition of fostering personal interaction, we organize a social dinner on Wednesday evening.  
 
-## Posters
+## **Posters**
 * Zebulon Goriely: From babble to words: Pre-training language models on continuous streams of phonemes <br>
 * Bastian Bunzeck: Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
 * Iza Škrjanec: Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
