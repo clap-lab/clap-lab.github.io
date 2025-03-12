@@ -21,13 +21,15 @@ Registration is open (see below).
 ## **Keynote Speakers**  
 We are thrilled to announce two keynote presentations:  
 
-- **[Debora Nozza](https://www.deboranozza.com/)** (Bocconi University, Milano)  
-  *Topic:* *Subjectivity in NLP and Cross-Lingual Hate Speech*  
-  Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.  
-
-- **[Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/)** (Ben-Gurion University of the Negev)  
-  *Topic:* *Challenges in Tokenization Across Languages*  
-  Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.  
+<table border:"0">
+  <tr>
+    <td><img src="https://www.deboranozza.com/authors/debora/avatar_hubf21a0fef8c9fda322a987ee713b3f4a_2271499_250x250_fill_q90_lanczos_center.jpg" alt="Profile picture of Debora Nozza" style="height:5em"></td>
+    <td><a href="https://www.deboranozza.com/"><b>Debora Nozza</b></a> (Bocconi University, Milano)<br>Topic: Subjectivity in NLP and Cross-Lingual Hate Speech<br>Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.</td> 
+<tr>
+    <td><img src="https://www.cs.bgu.ac.il/~pintery/images/pic-02.jpg" alt="Profile picture of Yuval Pinter" style="height:5em"></td>
+    <td><a href="https://www.cs.bgu.ac.il/~pintery/"><b>Yuval Pinter</b></a> (Ben-Gurion University of the Negev)<br>Topic: Challenges in Tokenization Across Languages<br>Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.</td> 
+  </tr>
+</table>
 
 ## **Posters**
 * Zebulon Goriely: From babble to words: Pre-training language models on continuous streams of phonemes <br>
