@@ -37,22 +37,22 @@ We are thrilled to announce two keynote presentations:
 </table>
 
 ## **Posters**
-* Zebulon Goriely: From babble to words: Pre-training language models on continuous streams of phonemes <br>
-* Bastian Bunzeck: Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
-* Iza Škrjanec: Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
-* Francesca Padovani: What is the real benefit of using Child Directed Language for Language Modeling? <br>
-* David Reich: The Pupil Becomes the Master: Eye-Tracking Feedback for Tuning LLMs <br>
-* Marianne de Heer Kloots: Investigating language learning trajectories in self-supervised speech models <br>
-* Kathy Hämmerl: Understanding Cross-Lingual Alignment <br>
-* Vera Neplenbroek: Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation <br>
-* Siyao Peng: VariErr NLI: Separating Annotation Error from Human Label Variation <br>
-* Verena Blaschke: What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects <br>
-* Franziska Weeber: Cross-Lingual Political Biases in Multilingual Large Language Models <br>
-* Jesujoba O. Alabi: AfriHuBERT: A self-supervised speech representation model for African languages <br>
-* Suchir Salahan: Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
-* Akari Haga: BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
-* Jaap Jumelet: Extending BLiMP To Many Languages <br>
-* Yevgen Matusevych: Evaluating Cross-Lingual Transfer from English and Chinese <br> 
+* [Zebulon Goriely:](https://www.cst.cam.ac.uk/people/zg258) From babble to words: Pre-training language models on continuous streams of phonemes <br>
+* [Bastian Bunzeck:](https://bbunzeck.github.io/) Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
+* [Iza Škrjanec:](https://www.uni-saarland.de/en/lehrstuhl/demberg/members/iza-skrjanec.html) Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
+* [Francesca Padovani:](https://fpadovani.github.io/) What is the real benefit of using Child Directed Language for Language Modeling? <br>
+* [David Reich:](https://david.reich.ai/) The Pupil Becomes the Master: Eye-Tracking Feedback for Tuning LLMs <br>
+* [Marianne de Heer Kloots:](https://mdhk.net/) Investigating language learning trajectories in self-supervised speech models <br>
+* [Kathy Hämmerl:](https://cis.uni-muenchen.de/~haemmerl/) Understanding Cross-Lingual Alignment <br>
+* [Vera Neplenbroek:](https://veranep.github.io/) Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation <br>
+* [Siyao Peng:](https://logan-siyao-peng.github.io/) VariErr NLI: Separating Annotation Error from Human Label Variation <br>
+* [Verena Blaschke:](https://verenablaschke.github.io/) What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects <br>
+* [Franziska Weeber:](https://www.linkedin.com/in/franziska-weeber/) Cross-Lingual Political Biases in Multilingual Large Language Models <br>
+* [Jesujoba O. Alabi:](https://ajesujoba.github.io/) AfriHuBERT: A self-supervised speech representation model for African languages <br>
+* [Suchir Salahan:](https://www.suchirsalhan.com/) Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
+* [Akari Haga:](https://akari000.github.io/) BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
+* [Jaap Jumelet:](https://jumelet.ai/) Extending BLiMP To Many Languages <br>
+* [Yevgen Matusevych:](https://yevgen.web.rug.nl/) Evaluating Cross-Lingual Transfer from English and Chinese <br> 
 
 ---
 
