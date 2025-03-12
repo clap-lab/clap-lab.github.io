@@ -52,36 +52,13 @@ We are thrilled to announce two keynote presentations:
 # **Workshop Schedule**  
 
 ### **Wednesday, March 26, 2025** 
-<table>
-<tr>
-    <td><b>13:30 - 14:00</b></td>
-    <td>Opening</td>
-</tr>
-<tr>
-    <td><b>14:00 - 15:00</b></td>
-    <td><em>Debora Nozza:</em> Subjectivity in Cross-Lingual NLP  </td>
-</tr>
-<tr>
-    <td><b>15:00 - 15:30</b></td>
-    <td><em>Lucie Flek:</em> Stereotypes in Multilingual Models  </td>
-</tr>
-<tr>
-    <td><b>15:30 - 16:00</b></td>
-    <td>Break 🍽</td>
-</tr>
-<tr>
-    <td><b>16:00 - 18:00</b></td>
-    <td>Poster Session</td>
-</tr>
-<tr>
-    <td><b>18:00</b></td>
-    <td>Walking Tour 🚶‍♂️</td>
-</tr>
-<tr>
-    <td><b>19:00</b></td>
-    <td>Workshop Dinner 🍽</td>
-</tr>
-</table> 
+**13:30 - 14:00** | Opening  
+**14:00 - 15:00** | *Debora Nozza:* Subjectivity in Cross-Lingual NLP  
+**15:00 - 15:30** | *Lucie Flek:* Stereotypes in Multilingual Models  
+**15:30 - 16:00** | Break  
+**16:00 - 18:00** | Poster Session  
+**18:00**         | Walking Tour 🚶‍♂️  
+**19:00**         | Workshop Dinner 🍽  
 
 ### **Thursday, March 27, 2025**  
 **08:30 - 09:00** | Walk-in Coffee ☕  
