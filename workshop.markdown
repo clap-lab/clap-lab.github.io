@@ -23,13 +23,13 @@ We are thrilled to announce two keynote presentations:
 
 <table style style="border: hidden; border-collapse: collapse;">
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.deboranozza.com/"><img src="https://www.deboranozza.com/authors/debora/avatar_hubf21a0fef8c9fda322a987ee713b3f4a_2271499_250x250_fill_q90_lanczos_center.jpg" alt="Profile picture of Debora Nozza" style="max-height:10em; width:auto; object-fit: contain;"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.deboranozza.com/"><img src="images/deboranozza.jpg" alt="Profile picture of Debora Nozza" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden;"><a href="https://www.deboranozza.com/"><b>Debora Nozza</b></a> (Bocconi University, Milano)<br><em>Topic: Subjectivity in NLP and Cross-Lingual Hate Speech</em><br>Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.
   </td>
  </tr>
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.cs.bgu.ac.il/~pintery/"><img src="https://www.cs.bgu.ac.il/~pintery/images/pic-02.jpg" alt="Profile picture of Yuval Pinter" style="max-height:10em; width:auto; object-fit: contain;"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.cs.bgu.ac.il/~pintery/"><img src="images/yuvalpinter.jpg" alt="Profile picture of Yuval Pinter" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden;"><a href="https://www.cs.bgu.ac.il/~pintery/"><b>Yuval Pinter</b></a> (Ben-Gurion University of the Negev)<br><em>Topic: Challenges in Tokenization Across Languages</em><br>Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.
   </td>
@@ -80,13 +80,27 @@ We are thrilled to announce two keynote presentations:
 **14:55 - 15:00** | Closing Remarks  
 
 ---
-![Impressions from HumanCLAIM 2024](overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
+![Impressions from HumanCLAIM 2024](images/overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
 
 ## Organization Committee
-[Lisa Beinborn](https://www.uni-goettingen.de/en/691017.html) (University of Goettingen) <br>
-[Richard Diehl Martinez](https://www.richarddiehlmartinez.com/) (University of Cambridge) <br>
-[Urja Khurana](https://urjakh.github.io/) (Vrije Universiteit Amsterdam) <br>
-[Eva Beck](https://www.linkedin.com/in/eva-beck-199104239/) (University of Goettingen) <br> <br>
+<table style style="border: hidden; border-collapse: collapse; width: 100%;">
+ <tr style="border: hidden;">
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html"><img src="images/lisabeinborn.jpeg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.richarddiehlmartinez.com/"><img src="images/richarddiehlmartinez.jpg" alt="Profile picture of Richard Diehl Martinez" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"><img src="images/urjakhurana.jpeg" alt="Profile picture of Richard Urja Khurana" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/eva-bexk"><img src="images/evabeck.jpg" alt="Profile picture of Eva Beck" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%;box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
+ </tr>
+ <tr>
+  <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html">Lisa Beinborn</a><br>(University of Goettingen)</td>
+  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.richarddiehlmartinez.com/">Richard Diehl Martinez</a><br>(University of Cambridge)</td>
+  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/">Urja Khurana</a><br>(Vrije Universiteit Amsterdam)</td>
+  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/eva-bexk">Eva Beck</a><br>(University of Goettingen)</td>
+ </tr>
+</table>
 
 ## Contact
 If you have questions about the program, you can send an e-mail to humanclaim@googlegroups.com. 
