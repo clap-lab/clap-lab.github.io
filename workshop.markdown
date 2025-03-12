@@ -29,11 +29,6 @@ We are thrilled to announce two keynote presentations:
   *Topic:* *Challenges in Tokenization Across Languages*  
   Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.  
 
-## **Interactive Sessions**  
-- **Poster Session** – A great opportunity for participants to present their work and receive feedback.  
-- **Idea Pitches** – Have an idea but need expertise? Join focused small-group discussions to exchange knowledge.  
-- **Workshop Dinner** – Continuing our tradition of fostering personal interaction, we organize a social dinner on Wednesday evening.  
-
 ## **Posters**
 * Zebulon Goriely: From babble to words: Pre-training language models on continuous streams of phonemes <br>
 * Bastian Bunzeck: Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
@@ -59,8 +54,8 @@ We are thrilled to announce two keynote presentations:
 ### **Wednesday, March 26, 2025**  
 **13:30 - 14:00** | Opening  
 **14:00 - 15:00** | *Debora Nozza:* Subjectivity in Cross-Lingual NLP  
-**15:00 - 15:30** | Coffee Break ☕  
-**15:30 - 16:00** | *Lucie Flek:* Stereotypes in Multilingual Models  
+**15:00 - 15:30** | *Lucie Flek:* Stereotypes in Multilingual Models 
+**15:30 - 16:00** | Break
 **16:00 - 18:00** | Poster Session  
 **18:00** | Walking Tour 🚶‍♂️  
 **19:00** | Workshop Dinner 🍽  
