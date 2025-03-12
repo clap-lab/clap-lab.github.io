@@ -21,14 +21,14 @@ Registration is open (see below).
 ## **Keynote Speakers**  
 We are thrilled to announce two keynote presentations:  
 
-- **[Debora Nozza](https://www.deboranozza.com/)** (Bocconi University, Milano)  
-  *Topic:* *Subjectivity in NLP and Cross-Lingual Hate Speech*  
+- **[Debora Nozza](https://www.deboranozza.com/)** (Bocconi University, Milano) <br>
+  *Topic:* *Subjectivity in NLP and Cross-Lingual Hate Speech* <br>
   Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.  
 
   
 
-- **[Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/)** (Ben-Gurion University of the Negev)  
-  *Topic:* *Challenges in Tokenization Across Languages*  
+- **[Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/)** (Ben-Gurion University of the Negev) <br>
+  *Topic:* *Challenges in Tokenization Across Languages* <br>
   Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.
 
 
