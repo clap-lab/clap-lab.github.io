@@ -21,13 +21,16 @@ Registration is open (see below).
 ## **Keynote Speakers**  
 We are thrilled to announce two keynote presentations:  
 
-| ![Profile Picture of Debora Nozza](https://www.deboranozza.com/authors/debora/avatar_hubf21a0fef8c9fda322a987ee713b3f4a_2271499_250x250_fill_q90_lanczos_center.jpg) | **[Debora Nozza](https://www.deboranozza.com/)** (Bocconi University, Milano)  
-*Topic:* *Subjectivity in NLP and Cross-Lingual Hate Speech*  
-Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection. |
-| --- | --- |
-| ![Profile Picture of Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/images/pic-02.jpg) | **[Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/)** (Ben-Gurion University of the Negev)  
-*Topic:* *Challenges in Tokenization Across Languages*  
-Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn. |
+- **[Debora Nozza](https://www.deboranozza.com/)** (Bocconi University, Milano)  
+  *Topic:* *Subjectivity in NLP and Cross-Lingual Hate Speech*  
+  Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.  
+
+  
+
+- **[Yuval Pinter](https://www.cs.bgu.ac.il/~pintery/)** (Ben-Gurion University of the Negev)  
+  *Topic:* *Challenges in Tokenization Across Languages*  
+  Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.
+
 
 ## **Posters**
 * Zebulon Goriely: From babble to words: Pre-training language models on continuous streams of phonemes <br>
