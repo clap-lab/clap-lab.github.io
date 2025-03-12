@@ -22,7 +22,7 @@ Registration is open (see below).
 We are thrilled to announce two keynote presentations:  
 
 
-<table>
+<table style="clear: both;">
   <tr>
     <td><img src="https://www.deboranozza.com/authors/debora/avatar_hubf21a0fef8c9fda322a987ee713b3f4a_2271499_250x250_fill_q90_lanczos_center.jpg" alt="Profile picture of Debora Nozza" style="height:5em"></td>
     <td><a href="https://www.deboranozza.com/"><b>Debora Nozza</b></a> (Bocconi University, Milano)<br>Topic: Subjectivity in NLP and Cross-Lingual Hate Speech<br>Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.</td>
