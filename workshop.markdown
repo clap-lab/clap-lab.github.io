@@ -21,6 +21,7 @@ Registration is open (see below).
 ## **Keynote Speakers**  
 We are thrilled to announce two keynote presentations:  
 
+
 <table>
   <tr>
     <td><img src="https://www.deboranozza.com/authors/debora/avatar_hubf21a0fef8c9fda322a987ee713b3f4a_2271499_250x250_fill_q90_lanczos_center.jpg" alt="Profile picture of Debora Nozza" style="height:5em"></td>
@@ -30,6 +31,7 @@ We are thrilled to announce two keynote presentations:
     <td><a href="https://www.cs.bgu.ac.il/~pintery/"><b>Yuval Pinter</b></a> (Ben-Gurion University of the Negev)<br>Topic: Challenges in Tokenization Across Languages<br>Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.</td>
   </tr>
 </table>
+
 
 ## **Posters**
 * Zebulon Goriely: From babble to words: Pre-training language models on continuous streams of phonemes <br>
