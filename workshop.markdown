@@ -10,13 +10,11 @@ Linguistic diversity is one of the fundamental rights of the European Union and 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches toward increasing diversity in language technology.
 
 ## Important Details
-Date: March 26th to March 27th, 2025 <br>
-Location: Göttingen, Germany
+Start: Wednesday, March 26th, 2025, 1pm, Startraum, Göttingen, Germany
+End: Thursday, March 27th, 2025, 3pm, Veranstaltungszentrum Sternwarte, Göttingen, Germany <br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
-Registration is open (see below). 
-
-# **Program Highlights**  
+We only have a few open spots left (register quickly below). 
 
 ## **Keynote Speakers**  
 We are thrilled to announce two keynote presentations:  
@@ -35,32 +33,14 @@ We are thrilled to announce two keynote presentations:
   </td>
  </tr>
 </table>
-
-## **Posters**
-* [Zebulon Goriely:](https://www.cst.cam.ac.uk/people/zg258) From babble to words: Pre-training language models on continuous streams of phonemes <br>
-* [Bastian Bunzeck:](https://bbunzeck.github.io/) Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
-* [Iza Škrjanec:](https://www.uni-saarland.de/en/lehrstuhl/demberg/members/iza-skrjanec.html) Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
-* [Francesca Padovani:](https://fpadovani.github.io/) What is the real benefit of using Child Directed Language for Language Modeling? <br>
-* [David Reich:](https://david.reich.ai/) The Pupil Becomes the Master: Eye-Tracking Feedback for Tuning LLMs <br>
-* [Marianne de Heer Kloots:](https://mdhk.net/) Investigating language learning trajectories in self-supervised speech models <br>
-* [Kathy Hämmerl:](https://cis.uni-muenchen.de/~haemmerl/) Understanding Cross-Lingual Alignment <br>
-* [Vera Neplenbroek:](https://veranep.github.io/) Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation <br>
-* [Siyao Peng:](https://logan-siyao-peng.github.io/) VariErr NLI: Separating Annotation Error from Human Label Variation <br>
-* [Verena Blaschke:](https://verenablaschke.github.io/) What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects <br>
-* [Franziska Weeber:](https://www.linkedin.com/in/franziska-weeber/) Cross-Lingual Political Biases in Multilingual Large Language Models <br>
-* [Jesujoba O. Alabi:](https://ajesujoba.github.io/) AfriHuBERT: A self-supervised speech representation model for African languages <br>
-* [Suchir Salahan:](https://www.suchirsalhan.com/) Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
-* [Akari Haga:](https://akari000.github.io/) BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
-* [Jaap Jumelet:](https://jumelet.ai/) Extending BLiMP To Many Languages <br>
-* [Yevgen Matusevych:](https://yevgen.web.rug.nl/) Evaluating Cross-Lingual Transfer from English and Chinese <br> 
-
 ---
 
-# **Workshop Schedule**  
+# **Program**  
 
 ### **Wednesday, March 26, 2025** 
-**13:30 - 14:00** | Opening  
-**14:00 - 15:00** | *Debora Nozza:* Subjectivity in Cross-Lingual NLP  
+**13:30 - 13:50** | Opening  
+**13:50 - 14:50** | *Debora Nozza:* Subjectivity in Cross-Lingual NLP  
+**14:50 - 15:00** | Social Clustering 
 **15:00 - 15:30** | *Lucie Flek:* Stereotypes in Multilingual Models  
 **15:30 - 16:00** | Break  
 **16:00 - 18:00** | Poster Session  
@@ -79,6 +59,24 @@ We are thrilled to announce two keynote presentations:
 **14:15 - 14:55** | Group Pitches: The Project to Find the Answer  
 **14:55 - 15:00** | Closing Remarks  
 
+## **Posters**
+* [Zebulon Goriely:](https://www.cst.cam.ac.uk/people/zg258) From babble to words: Pre-training language models on continuous streams of phonemes <br>
+* [Bastian Bunzeck:](https://bbunzeck.github.io/) Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
+* [Iza Škrjanec:](https://www.uni-saarland.de/en/lehrstuhl/demberg/members/iza-skrjanec.html) Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
+* [Francesca Padovani:](https://fpadovani.github.io/) What is the real benefit of using Child Directed Language for Language Modeling? <br>
+* [David Reich:](https://david.reich.ai/) The Pupil Becomes the Master: Eye-Tracking Feedback for Tuning LLMs <br>
+* [Marianne de Heer Kloots:](https://mdhk.net/) Investigating language learning trajectories in self-supervised speech models <br>
+* [Kathy Hämmerl:](https://cis.uni-muenchen.de/~haemmerl/) Understanding Cross-Lingual Alignment <br>
+* [Vera Neplenbroek:](https://veranep.github.io/) Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation <br>
+* [Siyao Peng:](https://logan-siyao-peng.github.io/) VariErr NLI: Separating Annotation Error from Human Label Variation <br>
+* [Verena Blaschke:](https://verenablaschke.github.io/) What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects <br>
+* [Franziska Weeber:](https://www.linkedin.com/in/franziska-weeber/) Cross-Lingual Political Biases in Multilingual Large Language Models <br>
+* [Jesujoba O. Alabi:](https://ajesujoba.github.io/) AfriHuBERT: A self-supervised speech representation model for African languages <br>
+* [Suchir Salahan:](https://www.suchirsalhan.com/) Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
+* [Akari Haga:](https://akari000.github.io/) BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
+* [Jaap Jumelet:](https://jumelet.ai/) Extending BLiMP To Many Languages <br>
+* [Yevgen Matusevych:](https://yevgen.web.rug.nl/) Evaluating Cross-Lingual Transfer from English and Chinese <br>
+  
 ---
 ![Impressions from HumanCLAIM 2024](images/overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
 
