@@ -38,26 +38,77 @@ We are thrilled to announce two keynote presentations:
 # **Program**  
 
 ### **Wednesday, March 26, 2025** 
-**13:30 - 13:50** | Opening  
-**13:50 - 14:50** | *Debora Nozza:* Subjectivity in Cross-Lingual NLP  
-**14:50 - 15:00** | Social Clustering
-**15:00 - 15:30** | *Lucie Flek:* Stereotypes in Multilingual Models  
-**15:30 - 16:00** | Break  
-**16:00 - 18:00** | Poster Session  
-**18:00**         | Walking Tour 🚶‍♂️  
-**19:00**         | Workshop Dinner 🍽  
+<table>
+ <tr>
+  <td><b>13:30 - 13:50</b></td>
+  <td>Opening</td>
+ </tr>
+ <tr>
+  <td><b>13:50 - 14:50</b></td>
+  <td><em>Debora Nozza:</em> Subjectivity in Cross-Lingual NLP</td>
+ </tr>
+ <tr>
+  <td><b>14:50 - 15:00</b></td>
+  <td>Social Clustering</td>
+ </tr>
+ <tr>
+  <td><b>15:00 - 15:30</b></td>
+  <td><em>Lucie Flek:</em> Stereotypes in Multilingual Models</td>
+ </tr>
+ <tr>
+  <td><b>15:30 - 16:00</b></td>
+  <td>Break</td>
+ </tr>
+ <tr>
+  <td><b>16:00 - 18:00</b></td>
+  <td>Poster Session</td>
+ </tr>
+</table>
+
 
 ### **Thursday, March 27, 2025**  
-**08:30 - 09:00** | Walk-in Coffee ☕  
-**09:00 - 10:00** | *Yuval Pinter:* Cross-Lingual Challenges in Tokenization  
-**10:00 - 10:30** | Idea Pitches: The Question  
-**10:30 - 10:50** | Coffee Break + Group Formation  
-**10:50 - 12:00** | Group Work Session 1: Finding Common Ground  
-**12:00 - 13:00** | Lunch 🍽  
-**13:00 - 13:30** | *Nivedita Mani:* Cognitive Models of L1 Acquisition  
-**13:30 - 14:15** | Group Work Session 2: Preparing Pitches  
-**14:15 - 14:55** | Group Pitches: The Project to Find the Answer  
-**14:55 - 15:00** | Closing Remarks  
+<table>
+ <tr>
+  <td><b>08:30 - 09:00</b></td>
+  <td>Walk-in Coffee ☕</td>
+ </tr>
+ <tr>
+  <td><b>09:00 - 10:00</b></td>
+  <td><em>Yuval Pinter:</em> Cross-Lingual Challenges in Tokenization</td>
+ </tr>
+ <tr>
+  <td><b>10:00 - 10:30</b></td>
+  <td>Idea Pitches: The Question</td>
+ </tr>
+ <tr>
+  <td><b>10:30 - 10:50</b></td>
+  <td>Coffee Break + Group Formation</td>
+ </tr>
+ <tr>
+  <td><b>10:50 - 12:00</b></td>
+  <td>Group Work Session 1: Finding Common Ground</td>
+ </tr>
+ <tr>
+  <td><b>12:00 - 13:00</b></td>
+  <td>Lunch 🍽</td>
+ </tr>
+ <tr>
+  <td><b>13:00 - 13:30</b></td>
+  <td><em>Nivedita Mani:</em> Cognitive Models of L1 Acquisition</td>
+ </tr>
+ <tr>
+  <td><b>13:30 - 14:15</b></td>
+  <td>Group Work Session 2: Preparing Pitches</td>
+ </tr>
+ <tr>
+  <td><b>14:15 - 14:55</b></td>
+  <td>Group Pitches: The Project to Find the Answer</td>
+ </tr>
+ <tr>
+  <td><b>14:55 - 15:00</b></td>
+  <td>Closing Remarks</td>
+ </tr>
+</table>  
 
 ## **Posters**
 * [Zebulon Goriely:](https://www.cst.cam.ac.uk/people/zg258) From babble to words: Pre-training language models on continuous streams of phonemes <br>
