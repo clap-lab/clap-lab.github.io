@@ -156,3 +156,4 @@ If you have questions about the program, you can send an e-mail to humanclaim@go
 
 Curious about previous editions? [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
 ## Registration
+If you would like to register for the workshop, please send an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a>
