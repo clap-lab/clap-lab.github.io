@@ -10,7 +10,7 @@ Linguistic diversity is one of the fundamental rights of the European Union and 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches toward increasing diversity in language technology.
 
 ## Important Details
-Start: Wednesday, March 26th, 2025, 1pm, Startraum, Göttingen, Germany
+Start: Wednesday, March 26th, 2025, 1pm, Startraum, Göttingen, Germany<br>
 End: Thursday, March 27th, 2025, 3pm, Veranstaltungszentrum Sternwarte, Göttingen, Germany <br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
