@@ -152,8 +152,8 @@ We are thrilled to announce two keynote presentations:
 </table>
 
 ## Contact
-If you have questions about the program, you can send an e-mail to humanclaim@googlegroups.com. 
+If you have questions about the program, you can send an e-mail to <a href="mailto:humanclaim@googlegroups.com">humanclaim@googlegroups.com</a>. 
 
-Curious about previous editions? [2024](/workshop2024.markdown), [2023](/workshop2023.markdown).
+Curious about previous editions? Visit the websites for [HumanCLAIM 2023](/workshop2023.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
 ## Registration
 If you would like to register for the workshop, please send an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a>
