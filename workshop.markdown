@@ -40,7 +40,7 @@ We are thrilled to announce two keynote presentations:
 ### **Wednesday, March 26, 2025** 
 **13:30 - 13:50** | Opening  
 **13:50 - 14:50** | *Debora Nozza:* Subjectivity in Cross-Lingual NLP  
-**14:50 - 15:00** | Social Clustering <br>
+**14:50 - 15:00** | Social Clustering
 **15:00 - 15:30** | *Lucie Flek:* Stereotypes in Multilingual Models  
 **15:30 - 16:00** | Break  
 **16:00 - 18:00** | Poster Session  
