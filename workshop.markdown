@@ -27,7 +27,7 @@ We are thrilled to announce two keynote presentations:
   </td>
  </tr>
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.cs.bgu.ac.il/~pintery/"><img src="images/yuvalpinter.jpg" alt="Profile picture of Yuval Pinter" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.cs.bgu.ac.il/~pintery/"><img src="images/yuvalpinter.png" alt="Profile picture of Yuval Pinter" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden;"><a href="https://www.cs.bgu.ac.il/~pintery/"><b>Yuval Pinter</b></a> (Ben-Gurion University of the Negev)<br><em>Topic: Challenges in Tokenization Across Languages</em><br>Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.
   </td>
@@ -83,7 +83,7 @@ We are thrilled to announce two keynote presentations:
 ## Organization Committee
 <table style style="border: hidden; border-collapse: collapse; width: 100%;">
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html"><img src="images/lisabeinborn.jpeg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.richarddiehlmartinez.com/"><img src="images/richarddiehlmartinez.jpg" alt="Profile picture of Richard Diehl Martinez" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
