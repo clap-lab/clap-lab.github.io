@@ -14,7 +14,7 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 **End:** 🕒 Thursday, March 27th, 2025, 3 PM 📍 <a href="https://maps.app.goo.gl/KZZ6gwcbJ3GjbfiS6">Tagungszentrum an der Sternwarte, Göttingen</a><br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
-We only have a few open spots left (register quickly below). 
+We only have a few open spots left. Register quickly by sending an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a>
 
 ## **Keynote Speakers**  
 We are thrilled to announce two keynote presentations:  
@@ -155,5 +155,4 @@ We are thrilled to announce two keynote presentations:
 If you have questions about the program, you can send an e-mail to <a href="mailto:humanclaim@googlegroups.com">humanclaim@googlegroups.com</a>. 
 
 Curious about previous editions? Visit the websites for [HumanCLAIM 2023](/workshop2023.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
-## Registration
-If you would like to register for the workshop, please send an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a>
+
