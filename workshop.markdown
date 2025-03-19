@@ -127,6 +127,7 @@ We are thrilled to announce two keynote presentations:
 * [Akari Haga:](https://akari000.github.io/) BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
 * [Jaap Jumelet:](https://jumelet.ai/) Extending BLiMP To Many Languages <br>
 * [Yevgen Matusevych:](https://yevgen.web.rug.nl/) Evaluating Cross-Lingual Transfer from English and Chinese <br>
+* [Jan Batzner:](https://www.weizenbaum-institut.de/portrait/p/jan-batzner/) GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy <br>
   
 ---
 ![Impressions from HumanCLAIM 2024](images/overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
