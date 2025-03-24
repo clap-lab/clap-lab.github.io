@@ -123,7 +123,7 @@ We are thrilled to announce two keynote presentations:
 * [Verena Blaschke:](https://verenablaschke.github.io/) What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects <br>
 * [Franziska Weeber:](https://www.linkedin.com/in/franziska-weeber/) Cross-Lingual Political Biases in Multilingual Large Language Models <br>
 * [Jesujoba O. Alabi:](https://ajesujoba.github.io/) AfriHuBERT: A self-supervised speech representation model for African languages <br>
-* [Suchir Salahan:](https://www.suchirsalhan.com/) Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
+* [Suchir Salhan:](https://www.suchirsalhan.com/) Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
 * [Akari Haga:](https://akari000.github.io/) BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
 * [Jaap Jumelet:](https://jumelet.ai/) Extending BLiMP To Many Languages <br>
 * [Yevgen Matusevych:](https://yevgen.web.rug.nl/) Evaluating Cross-Lingual Transfer from English and Chinese <br>
