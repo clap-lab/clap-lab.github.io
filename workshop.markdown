@@ -9,13 +9,15 @@ Linguistic diversity is one of the fundamental rights of the European Union and 
 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches toward increasing diversity in language technology.
 
-## Important Details
+## Important Details & Registration
 **Start:** 🕒 Wednesday, March 26th, 2025, 1:30 PM 📍 <a href="https://maps.app.goo.gl/EqH8WQJd4CSvyuRG6">Startraum, Göttingen</a><br>
 **End:** 🕒 Thursday, March 27th, 2025, 3 PM 📍 <a href="https://maps.app.goo.gl/KZZ6gwcbJ3GjbfiS6">Tagungszentrum an der Sternwarte, Göttingen</a><br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
-We only have a few open spots left. Register quickly by sending an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a>
+We only have a few open spots left. Register quickly by sending an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a><br>
+Please note that food and drinks can only be guaranteed for those who registered earlier through the main system. Also, while Thursday's workshop sessions are already full, you're very welcome to join us for the keynote talks and poster session on Wednesday!
 
+---
 ## **Keynote Speakers**  
 We are thrilled to announce two keynote presentations:  
 
@@ -156,4 +158,9 @@ We are thrilled to announce two keynote presentations:
 If you have questions about the program, you can send an e-mail to <a href="mailto:humanclaim@googlegroups.com">humanclaim@googlegroups.com</a>. 
 
 Curious about previous editions? Visit the websites for [HumanCLAIM 2023](/workshop2023.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
+
+---
+## Funding
+The workshop is funded by *zukunft. niedersachsen*, the joint science funding program of the Lower Saxony Ministry of Science and Culture and the Volkswagen Foundation.
+<img src="images/RZ_VWS_Zukunft-Niedersachsen_Logo_Schwarz_RGB.png" style="max-height:10em; width:auto; object-fit: contain;">
 
