@@ -161,6 +161,6 @@ Curious about previous editions? Visit the websites for [HumanCLAIM 2023](/works
 
 ---
 ## Funding
-The workshop is funded by *zukunft. niedersachsen*, the joint science funding program of the Lower Saxony Ministry of Science and Culture and the Volkswagen Foundation.
-<img src="images/RZ_VWS_Zukunft-Niedersachsen_Logo_Schwarz_RGB.png" style="max-height:10em; width:auto; object-fit: contain;">
+The workshop is funded by *zukunft.niedersachsen*, the joint science funding program of the Lower Saxony Ministry of Science and Culture and the Volkswagen Foundation.
+<a href="https://zukunft.niedersachsen.de/en/"><img src="images/RZ_VWS_Zukunft-Niedersachsen_Logo_Schwarz_RGB.png" style="max-height:10em; width:auto; object-fit: contain;"></a>
 
