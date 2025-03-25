@@ -15,7 +15,7 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
 We only have a few open spots left. Register quickly by sending an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a><br>
-Please note that food and drinks can only be guaranteed for those who registered earlier through the main system. Also, while Thursday's workshop sessions are already full, you're very welcome to join us for the keynote talks and poster session on Wednesday!
+Please note that food and drinks can only be guaranteed for those who registered earlier through the main system.
 
 ---
 ## **Keynote Speakers**  
