@@ -155,7 +155,7 @@ We are thrilled to announce two keynote presentations:
 </table>
 
 ## Contact
-If you have questions about the program, you can send an e-mail to <a href="mailto:humanclaim@googlegroups.com">humanclaim@googlegroups.com</a>. 
+If you have questions about the program, you can send an e-mail to <a href="mailto:humanclaim-organizers@googlegroups.com">humanclaim-organizers@googlegroups.com</a>. 
 
 Curious about previous editions? Visit the websites for [HumanCLAIM 2023](/workshop2023.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
 
