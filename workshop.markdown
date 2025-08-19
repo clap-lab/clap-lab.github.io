@@ -132,7 +132,7 @@ We are thrilled to announce two keynote presentations:
 * [Jan Batzner:](https://www.weizenbaum-institut.de/portrait/p/jan-batzner/) GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy <br>
   
 ---
-![Impressions from HumanCLAIM 2024](images/overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
+![Impressions from HumanCLAIM 2025](images/HumanCLAIM2025_photos.png?raw=true "HumanCLAIM 2025")
 
 ## Organization Committee
 <table style style="border: hidden; border-collapse: collapse; width: 100%;">
