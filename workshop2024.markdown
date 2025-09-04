@@ -51,6 +51,8 @@ Registration is open.
 * Wessel Poelman: A Call for Consistency in Reporting Typological Diversity <br>
 * Zeb Goriely: POS Smoothing - Rare Word Representation Learning by Smoothing Over Word Classes <br>
 <br>
+---
+![Impressions from HumanCLAIM 2024](images/overview_human_claim2024.png?raw=true "HumanCLAIM 2024")
 
 ## Organization Committee
 [Lisa Beinborn](https://beinborn.eu/) (Vrije Universiteit Amsterdam) <br>
