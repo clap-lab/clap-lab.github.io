@@ -10,9 +10,8 @@ Linguistic diversity is one of the fundamental rights of the European Union and 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches toward increasing diversity in language technology.
 
 ## Important Details & Registration
-**Start:** 🕒 Monday, March 16th, 2026, TBD<br>
-**End:** 🕒 Tuesday, March 17th, 2026, TBD<br>
-**Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
+**Start:** 🕒 Wednesday, March 26th, 2025, 1:30 PM 📍 <a href="https://maps.app.goo.gl/EqH8WQJd4CSvyuRG6">Startraum, Göttingen</a><br>
+**End:** 🕒 Thursday, March 27th, 2025, 3 PM 📍 <a href="https://maps.app.goo.gl/KZZ6gwcbJ3GjbfiS6">Tagungszentrum an der Sternwarte, Göttingen</a><br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
 We only have a few open spots left. Register quickly by sending an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a><br>
@@ -158,7 +157,7 @@ We are thrilled to announce two keynote presentations:
 ## Contact
 If you have questions about the program, you can send an e-mail to <a href="mailto:humanclaim-organizers@googlegroups.com">humanclaim-organizers@googlegroups.com</a>. 
 
-Curious about previous editions? Visit the websites for [HumanCLAIM 2025](/workshop2025.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
+Curious about previous editions? Visit the websites for [HumanCLAIM 2023](/workshop2023.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
 
 ---
 ## Funding
