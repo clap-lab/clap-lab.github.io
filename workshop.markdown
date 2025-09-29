@@ -40,9 +40,10 @@ We are thrilled to announce two keynote presentations:
 
 # **Program**  
 
-### **Monday, March 16, 2026** 
-TBA
+You can look forward to a versatile program including two keynote talks (see information below), a poster session, a visit of the Gauss' observatory, a workshop dinner, idea pitches, and cooperative sessions. 
+
 <!--
+### **Monday, March 16, 2026** 
 <table>
  <tr>
   <td><b>13:30 - 13:50</b></td>
@@ -69,11 +70,8 @@ TBA
   <td>Poster Session</td>
  </tr>
 </table>
--->
 
 ### **Tuesday, March 17, 2026**  
-TBA
-<!--
 <table>
  <tr>
   <td><b>08:30 - 09:00</b></td>
@@ -149,7 +147,7 @@ TBA
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="www.linkedin.com/in/zhuojing-huang-624a6b288"><img src="images/Zhoujing_Huang.jpg" alt="Profile picture of Zhoujing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="www.linkedin.com/in/zhuojing-huang-624a6b288"><img src="images/Zhoujing_Huang.png" alt="Profile picture of Zhoujing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
     <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><img src="images/Luise_Pohlmann.jpg" alt="Profile picture of Luise Pohlmann" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
   </td>
