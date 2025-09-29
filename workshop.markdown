@@ -24,7 +24,7 @@ We are thrilled to announce two keynote presentations:
 
 <table style="border: hidden;">
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://sites.google.com/view/tessa-verhoef/home"><img src="images/tessa_verhoef.jpg" alt="Profile picture of Tessa Verhoef" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://sites.google.com/view/tessa-verhoef/home"><img src="images/tessa_verhoef_square.jpg" alt="Profile picture of Tessa Verhoef" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden;"><a href="https://www.deboranozza.com/"><b>Tessa Verhoef</b></a> (Bocconi University, Milano)<br><em>Topic: Emergent Linguistic Structure in Agent Communication</em> <!--- <br>Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.--->
   </td>
