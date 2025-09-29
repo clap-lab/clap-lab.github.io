@@ -140,6 +140,7 @@ You can look forward to a versatile program including two keynote talks (see inf
 ---
 ![Impressions from HumanCLAIM 2025](images/HumanCLAIM2025_photos.png?raw=true "HumanCLAIM 2025")
 
+---
 ## Organization Committee
 <table style style="border: hidden; border-collapse: collapse; width: 100%;">
  <tr style="border: hidden;">
@@ -149,6 +150,8 @@ You can look forward to a versatile program including two keynote talks (see inf
   </td>
     <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><img src="images/Luise_Pohlmann.jpg" alt="Profile picture of Luise Pohlmann" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
   </td>
+
+
   <!--
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.richarddiehlmartinez.com/"><img src="images/richarddiehlmartinez.jpg" alt="Profile picture of Richard Diehl Martinez" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
@@ -156,14 +159,14 @@ You can look forward to a versatile program including two keynote talks (see inf
   </td>
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/eva-bexk"><img src="images/evabeck.jpg" alt="Profile picture of Eva Beck" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%;box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-      -->
+ -->
+      
  </tr>
  <tr>
   <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html">Lisa Beinborn</a><br>(University of Goettingen)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="">Zhoujing Huang</a><br>(University of Goettingen)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="">Luise Pohlmann</a><br>(University of Goettingen)</td>
  </tr>
-  -->
 </table>
 
 ## Contact
