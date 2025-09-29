@@ -40,7 +40,9 @@ We are thrilled to announce two keynote presentations:
 
 # **Program**  
 
-### **Wednesday, March 26, 2025** 
+### **Monday, March 16, 2026** 
+TBA
+<!--
 <table>
  <tr>
   <td><b>13:30 - 13:50</b></td>
@@ -67,9 +69,11 @@ We are thrilled to announce two keynote presentations:
   <td>Poster Session</td>
  </tr>
 </table>
+-->
 
-
-### **Thursday, March 27, 2025**  
+### **Tuesday, March 17, 2026**  
+TBA
+<!--
 <table>
  <tr>
   <td><b>08:30 - 09:00</b></td>
@@ -112,8 +116,11 @@ We are thrilled to announce two keynote presentations:
   <td>Closing Remarks</td>
  </tr>
 </table>  
+-->
 
 ## **Posters**
+TBA
+<!--
 * [Zebulon Goriely:](https://www.cst.cam.ac.uk/people/zg258) From babble to words: Pre-training language models on continuous streams of phonemes <br>
 * [Bastian Bunzeck:](https://bbunzeck.github.io/) Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
 * [Iza Škrjanec:](https://www.uni-saarland.de/en/lehrstuhl/demberg/members/iza-skrjanec.html) Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
@@ -131,6 +138,7 @@ We are thrilled to announce two keynote presentations:
 * [Jaap Jumelet:](https://jumelet.ai/) Extending BLiMP To Many Languages <br>
 * [Yevgen Matusevych:](https://yevgen.web.rug.nl/) Evaluating Cross-Lingual Transfer from English and Chinese <br>
 * [Jan Batzner:](https://www.weizenbaum-institut.de/portrait/p/jan-batzner/) GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy <br>
+-->
   
 ---
 ![Impressions from HumanCLAIM 2025](images/HumanCLAIM2025_photos.png?raw=true "HumanCLAIM 2025")
@@ -140,6 +148,11 @@ We are thrilled to announce two keynote presentations:
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href=""><img src="images/" alt="Profile picture of Zhoujing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
+    <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href=""><img src="images/" alt="Profile picture of Luise Pohlmann" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
+  <!--
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.richarddiehlmartinez.com/"><img src="images/richarddiehlmartinez.jpg" alt="Profile picture of Richard Diehl Martinez" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"><img src="images/urjakhurana.jpeg" alt="Profile picture of Richard Urja Khurana" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
@@ -148,15 +161,18 @@ We are thrilled to announce two keynote presentations:
   </td>
  </tr>
  <tr>
+  -->
   <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html">Lisa Beinborn</a><br>(University of Goettingen)</td>
-  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.richarddiehlmartinez.com/">Richard Diehl Martinez</a><br>(University of Cambridge)</td>
-  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/">Urja Khurana</a><br>(Vrije Universiteit Amsterdam)</td>
-  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/eva-bexk">Eva Beck</a><br>(University of Goettingen)</td>
+  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="">Zhoujing Huang</a><br>(University of Goettingen)</td>
+  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="">Luise Pohlmann</a><br>(University of Goettingen)</td>
  </tr>
+  -->
 </table>
 
 ## Contact
 If you have questions about the program, you can send an e-mail to <a href="mailto:humanclaim-organizers@googlegroups.com">humanclaim-organizers@googlegroups.com</a>. 
+
+If you are interested in humanclaim and would like to get in contact with other researchers, you can send a request to join our mailing list to <a href="mailto:humanclaim@googlegroups.com">humanclaim-organizers@googlegroups.com</a>. 
 
 Curious about previous editions? Visit the websites for [HumanCLAIM 2025](/workshop2025.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
 
