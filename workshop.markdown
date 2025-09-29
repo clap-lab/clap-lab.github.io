@@ -19,7 +19,7 @@ Please [register](##-Registration) in the form at the bottom of this page. <br>
 
 ---
 ## **Keynote Speakers**  
-We are thrilled to announce two keynote presentations:  
+We proudly announce our two expert speakers for 2026:  
 
 <table style="border: hidden;">
  <tr style="border: hidden;">
