@@ -10,8 +10,8 @@ Linguistic diversity is one of the fundamental rights of the European Union and 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches toward increasing diversity in language technology.
 
 ## Important Details & Registration
-**Start:** 🕒 Monday, March 16th, 2026, TBD<br>
-**End:** 🕒 Tuesday, March 17th, 2026, TBD<br>
+**Start:** 🕒 Monday, March 16th, 2026<br>
+**End:** 🕒 Tuesday, March 17th, 2026<br>
 **Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
@@ -146,6 +146,8 @@ You can look forward to a versatile program including two keynote talks (see inf
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.beinborn.eu"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
+    <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"><img src="images/urjakhurana.jpeg" alt="Profile picture of Urja Khurana" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/zhuojing-huang-624a6b288"><img src="images/Zhuojing_Huang.png" alt="Profile picture of Zhuojing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
     <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><img src="images/Luise_Pohlmann.jpg" alt="Profile picture of Luise Pohlmann" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
@@ -155,8 +157,6 @@ You can look forward to a versatile program including two keynote talks (see inf
   <!--
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.richarddiehlmartinez.com/"><img src="images/richarddiehlmartinez.jpg" alt="Profile picture of Richard Diehl Martinez" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"><img src="images/urjakhurana.jpeg" alt="Profile picture of Richard Urja Khurana" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
-  </td>
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/eva-bexk"><img src="images/evabeck.jpg" alt="Profile picture of Eva Beck" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%;box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
  -->
@@ -164,6 +164,7 @@ You can look forward to a versatile program including two keynote talks (see inf
  </tr>
  <tr>
   <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://www.beinborn.eu">Lisa Beinborn</a><br>(University of Goettingen)</td>
+    <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"> Urja Khurana</a><br>(Vrije Universiteit Amsterdam)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/zhuojing-huang-624a6b288">Zhoujing Huang</a><br>(University of Goettingen)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;">Luise Pohlmann<br>(University of Goettingen)</td>
  </tr>
