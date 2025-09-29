@@ -15,8 +15,7 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 **Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
-We only have a few open spots left. Register quickly by sending an e-mail with your full name to <a href="mailto:evailse.beck@stud.uni-goettingen.de">evailse.beck@stud.uni-goettingen.de</a><br>
-Please note that food and drinks can only be guaranteed for those who registered earlier through the main system.
+Please register down below<br>
 
 ---
 ## **Keynote Speakers**  
