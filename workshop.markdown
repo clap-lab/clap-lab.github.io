@@ -15,7 +15,7 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 **Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
-Please register in the form at the bottom of this page. <br>
+Please [register](##-Registration) in the form at the bottom of this page. <br>
 
 ---
 ## **Keynote Speakers**  
@@ -39,7 +39,12 @@ We are thrilled to announce two keynote presentations:
 
 # **Program Highlights**  
 
-You can look forward to a versatile program including two keynote talks (see information above), a poster session, a visit of the Gauss' observatory, a workshop dinner, idea pitches, and cooperative sessions. 
+Our interdisciplinary gathering has become known for a focused and social atmosphere. Our program includes: 
+- keynote talks by renowned international researchers
+- an interactive poster session on novel cross-lingual research
+- idea pitches and cooperative sessions
+- guided tour of Carl Friedrich Gauss' historical observatory
+- workshop dinner 
 
 <!--
 ### **Monday, March 16, 2026** 
@@ -173,7 +178,7 @@ You can look forward to a versatile program including two keynote talks (see inf
 ## Contact
 If you have questions about the program, you can reach the organizers via <a href="mailto:humanclaim-organizers@googlegroups.com">humanclaim-organizers@googlegroups.com</a>. 
 
-If you are interested in humanclaim and would like to get in contact with other researchers, you can send a request to join our mailing list to <a href="mailto:humanclaim@googlegroups.com">humanclaim@googlegroups.com</a>. 
+If you are interested in humanclaim and want to stay informed about the event, send a request to join our google group at <a href="https://groups.google.com/g/humanclaim/">https://groups.google.com/g/humanclaim/</a>. 
 
 Curious about previous editions? Visit the websites for [HumanCLAIM 2025](/workshop2025.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
 
@@ -181,4 +186,6 @@ Curious about previous editions? Visit the websites for [HumanCLAIM 2025](/works
 ## Funding
 The workshop is funded by *zukunft.niedersachsen*, the joint science funding program of the Lower Saxony Ministry of Science and Culture and the Volkswagen Foundation.
 <a href="https://zukunft.niedersachsen.de/en/"><img src="images/RZ_VWS_Zukunft-Niedersachsen_Logo_Schwarz_RGB.png" style="max-height:10em; width:auto; object-fit: contain;"></a>
+
+## Registration
 
