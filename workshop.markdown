@@ -115,10 +115,9 @@ You can look forward to a versatile program including two keynote talks (see inf
 </table>  
 -->
 
-## **Posters**
-TBA
-
 <!--
+
+## **Posters**
 * [Zebulon Goriely:](https://www.cst.cam.ac.uk/people/zg258) From babble to words: Pre-training language models on continuous streams of phonemes <br>
 * [Bastian Bunzeck:](https://bbunzeck.github.io/) Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
 * [Iza Škrjanec:](https://www.uni-saarland.de/en/lehrstuhl/demberg/members/iza-skrjanec.html) Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
