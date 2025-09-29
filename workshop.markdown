@@ -146,7 +146,7 @@ TBA
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="www.linkedin.com/in/zhuojing-huang-624a6b288"><img src="images/Zhoujing_Huang.png" alt="Profile picture of Zhoujing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="www.linkedin.com/in/zhuojing-huang-624a6b288"><img src="images/Zhuojing_Huang.png" alt="Profile picture of Zhuojing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
     <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><img src="images/Luise_Pohlmann.jpg" alt="Profile picture of Luise Pohlmann" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
   </td>
