@@ -120,6 +120,7 @@ TBA
 
 ## **Posters**
 TBA
+
 <!--
 * [Zebulon Goriely:](https://www.cst.cam.ac.uk/people/zg258) From babble to words: Pre-training language models on continuous streams of phonemes <br>
 * [Bastian Bunzeck:](https://bbunzeck.github.io/) Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
@@ -148,9 +149,9 @@ TBA
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href=""><img src="images/" alt="Profile picture of Zhoujing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="www.linkedin.com/in/zhuojing-huang-624a6b288"><img src="images/Zhoujing_Huang.jpg" alt="Profile picture of Zhoujing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-    <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href=""><img src="images/" alt="Profile picture of Luise Pohlmann" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+    <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><img src="images/Luise_Pohlmann.jpg" alt="Profile picture of Luise Pohlmann" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
   </td>
   <!--
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.richarddiehlmartinez.com/"><img src="images/richarddiehlmartinez.jpg" alt="Profile picture of Richard Diehl Martinez" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
@@ -159,9 +160,9 @@ TBA
   </td>
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/eva-bexk"><img src="images/evabeck.jpg" alt="Profile picture of Eva Beck" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%;box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
+      -->
  </tr>
  <tr>
-  -->
   <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html">Lisa Beinborn</a><br>(University of Goettingen)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="">Zhoujing Huang</a><br>(University of Goettingen)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="">Luise Pohlmann</a><br>(University of Goettingen)</td>
