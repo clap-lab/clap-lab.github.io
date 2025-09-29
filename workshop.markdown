@@ -23,21 +23,21 @@ We are thrilled to announce two keynote presentations:
 
 <table style="border: hidden;">
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://sites.google.com/view/tessa-verhoef/home"><img src="images/tessa_verhoef_square.jpg" alt="Profile picture of Tessa Verhoef" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://sites.google.com/view/tessa-verhoef/home"><img src="images/tessa_verhoef_square.jpg" alt="Profile picture of Tessa Verhoef" style="max-height:15em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden;"><a href="https://www.deboranozza.com/"><b>Tessa Verhoef</b></a> (Leiden University)<br><em>Topic: Emergent Linguistic Structure in Agent Communication</em> <!--- <br>Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.--->
+  <td style="border: hidden;"><a href="https://sites.google.com/view/tessa-verhoef/home"><b>Tessa Verhoef</b></a> (Leiden University)<br><em>Topic: Emergent Linguistic Structure in Agent Communication</em> <!--- <br>Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.--->
   </td>
  </tr>
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://blvns.github.io/"><img src="images/terra_blevins.jpeg" alt="Profile picture of Terra Blevins" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://blvns.github.io/"><img src="images/terra_blevins.jpeg" alt="Profile picture of Terra Blevins" style="max-height:15em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden;"><a href="https://www.cs.bgu.ac.il/~pintery/"><b>Terra Blevins</b></a> (Northeastern University, Khoury College of Computer Sciences, Boston)<br><em>Topic:  Breaking the Curse of Multilinguality</em><!---<br>Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.-->
+  <td style="border: hidden;"><a href="https://blvns.github.io/"><b>Terra Blevins</b></a> (Northeastern University, Khoury College of Computer Sciences, Boston)<br><em>Topic:  Breaking the Curse of Multilinguality</em><!---<br>Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.-->
   </td>
  </tr>
 </table>
 ---
 
-# **Program**  
+# **Program Highlights**  
 
 You can look forward to a versatile program including two keynote talks (see information above), a poster session, a visit of the Gauss' observatory, a workshop dinner, idea pitches, and cooperative sessions. 
 
@@ -164,15 +164,15 @@ You can look forward to a versatile program including two keynote talks (see inf
  </tr>
  <tr>
   <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://www.uni-goettingen.de/en/691017.html">Lisa Beinborn</a><br>(University of Goettingen)</td>
-  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="">Zhoujing Huang</a><br>(University of Goettingen)</td>
-  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="">Luise Pohlmann</a><br>(University of Goettingen)</td>
+  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="www.linkedin.com/in/zhuojing-huang-624a6b288">Zhoujing Huang</a><br>(University of Goettingen)</td>
+  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;">Luise Pohlmann<br>(University of Goettingen)</td>
  </tr>
 </table>
 
 ## Contact
-If you have questions about the program, you can send an e-mail to <a href="mailto:humanclaim-organizers@googlegroups.com">humanclaim-organizers@googlegroups.com</a>. 
+If you have questions about the program, you can reach the organizers via <a href="mailto:humanclaim-organizers@googlegroups.com">humanclaim-organizers@googlegroups.com</a>. 
 
-If you are interested in humanclaim and would like to get in contact with other researchers, you can send a request to join our mailing list to <a href="mailto:humanclaim@googlegroups.com">humanclaim-organizers@googlegroups.com</a>. 
+If you are interested in humanclaim and would like to get in contact with other researchers, you can send a request to join our mailing list to <a href="mailto:humanclaim@googlegroups.com">humanclaim@googlegroups.com</a>. 
 
 Curious about previous editions? Visit the websites for [HumanCLAIM 2025](/workshop2025.markdown) and [HumanCLAIM 2024](/workshop2024.markdown).
 
