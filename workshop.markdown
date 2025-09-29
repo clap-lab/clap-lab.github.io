@@ -10,8 +10,8 @@ Linguistic diversity is one of the fundamental rights of the European Union and 
 In this workshop, we want to bring together leading scholars from linguistics, cognitive science, and computer science to develop a more diverse and human-centered perspective on cross-lingual models.  We want to integrate typological theories about differences between language families, cognitive models of multilingual processing, and computational approaches toward increasing diversity in language technology.
 
 ## Important Details & Registration
-**Start:** 🕒 Monday, March 16th, 2026<br>
-**End:** 🕒 Tuesday, March 17th, 2026<br>
+**Start:** 🕒 Monday, March 16th, 2026, 1.30pm <br>
+**End:** 🕒 Tuesday, March 17th, 2026, 3.30pm <br>
 **Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
@@ -25,13 +25,13 @@ We are thrilled to announce two keynote presentations:
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://sites.google.com/view/tessa-verhoef/home"><img src="images/tessa_verhoef_square.jpg" alt="Profile picture of Tessa Verhoef" style="max-height:15em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden;"><a href="https://sites.google.com/view/tessa-verhoef/home"><b>Tessa Verhoef</b></a> (Leiden University)<br><em>Topic: Emergent Linguistic Structure in Agent Communication</em> <!--- <br>Debora Nozza will present her ERC-funded project focusing on subjectivity in NLP and discuss her research on cross-lingual hate speech detection.--->
+  <td style="border: hidden;"><a href="https://sites.google.com/view/tessa-verhoef/home"><b>Tessa Verhoef</b></a> (Leiden University)<br><em>Topic: Emergent Linguistic Structure in Agent Communication</em> 
   </td>
  </tr>
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://blvns.github.io/"><img src="images/terra_blevins.jpeg" alt="Profile picture of Terra Blevins" style="max-height:15em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden;"><a href="https://blvns.github.io/"><b>Terra Blevins</b></a> (Northeastern University, Khoury College of Computer Sciences, Boston)<br><em>Topic:  Breaking the Curse of Multilinguality</em><!---<br>Yuval Pinter will explore tokenization challenges in multiple languages and their impact on what models can learn.-->
+  <td style="border: hidden;"><a href="https://blvns.github.io/"><b>Terra Blevins</b></a> (Northeastern University (Khoury College, Boston)<br><em>Topic:  Breaking the Curse of Multilinguality</em>
   </td>
  </tr>
 </table>
