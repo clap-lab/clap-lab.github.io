@@ -15,7 +15,7 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 **Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
 
 Participation in the workshop is free of charge but the number of participants is limited. <br>
-Please [register](#-Registration) using the form at the bottom of this page. <br>
+Please [register](#registration) using the form at the bottom of this page. <br>
 
 ---
 ## **Keynote Speakers**  
