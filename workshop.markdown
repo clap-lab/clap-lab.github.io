@@ -39,7 +39,7 @@ We are thrilled to announce two keynote presentations:
 
 # **Program**  
 
-You can look forward to a versatile program including two keynote talks (see information below), a poster session, a visit of the Gauss' observatory, a workshop dinner, idea pitches, and cooperative sessions. 
+You can look forward to a versatile program including two keynote talks (see information above), a poster session, a visit of the Gauss' observatory, a workshop dinner, idea pitches, and cooperative sessions. 
 
 <!--
 ### **Monday, March 16, 2026** 
