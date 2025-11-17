@@ -41,7 +41,7 @@ We proudly announce our two expert speakers for 2026:
 
 Our interdisciplinary gathering has become known for a focused and social atmosphere. Our program includes: 
 - keynote talks by renowned international researchers
-- an interactive poster session on novel cross-lingual research
+- an interactive poster session packed with research on cross-lingual and cognitively inspired modeling
 - idea pitches and cooperative sessions
 - guided tour of Carl Friedrich Gauss' historical observatory
 - workshop dinner 
