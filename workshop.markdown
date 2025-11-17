@@ -31,7 +31,7 @@ We proudly announce our two expert speakers for 2026:
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://blvns.github.io/"><img src="images/terra_blevins.jpeg" alt="Profile picture of Terra Blevins" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden;"><a href="https://blvns.github.io/"><b>Terra Blevins</b></a> (Northeastern University (Khoury College, Boston)<br><em>Topic:  Breaking the Curse of Multilinguality</em><br> Terra Blevins studies unsupervised cross-lingual transfer and presents multilingual modeling approaches that better represent low-resource languages.
+  <td style="border: hidden;"><a href="https://blvns.github.io/"><b>Terra Blevins</b></a> (Northeastern University, Boston)<br><em>Topic:  Breaking the Curse of Multilinguality</em><br> Terra Blevins studies unsupervised cross-lingual transfer and presents multilingual modeling approaches that better represent low-resource languages.
   </td>
  </tr>
 </table>
