@@ -1,7 +1,4 @@
-.project-name {
-  color: #157870 !important; /* main title (h1) */
-}
-
-.project-tagline {
-  color: #157870 !important; /* subtitle (h2) */
+.project h2,
+.project h3 {
+  color: #157870 !important;
 }
