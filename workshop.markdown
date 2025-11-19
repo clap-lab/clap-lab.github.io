@@ -146,7 +146,7 @@ Our interdisciplinary gathering has become known for a focused and social atmosp
 
 ---
 ## Organization Committee
-<table style style="border: hidden; border-collapse: collapse; width: 100%;">
+<table style="border: hidden; border-collapse: collapse; width: 100%;">
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.huds.uni-goettingen.de"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
