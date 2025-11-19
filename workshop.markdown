@@ -22,7 +22,7 @@ We proudly announce our two expert speakers for 2026:
 
 <table style="border: hidden;">
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://sites.google.com/view/tessa-verhoef/home"><img src="images/people_tessa.png" alt="Profile picture of Tessa Verhoef" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://sites.google.com/view/tessa-verhoef/home"><img src="images/people_tessa.jpg" alt="Profile picture of Tessa Verhoef" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden;"><a href="https://sites.google.com/view/tessa-verhoef/home"><b>Tessa Verhoef</b></a> (Leiden University)<br><em>Topic: Emergent Linguistic Structure in Agent Communication</em><br>Tessa Verhoef will present her agent simulation framework and discuss structural convergence and lexical semantic change in cross-lingual communication. 
   </td>
