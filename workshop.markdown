@@ -13,7 +13,6 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 **Start:** 🕒 Monday, March 16th, 2026, 1.30pm <br>
 **End:** 🕒 Tuesday, March 17th, 2026, 4pm <br>
 **Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
-
 Participation in the workshop is free of charge but the number of participants is limited. <br>
 Please [register](#registration) using the form at the bottom of this page. <br>
 
@@ -149,7 +148,7 @@ Our interdisciplinary gathering has become known for a focused and social atmosp
 ## Organization Committee
 <table style style="border: hidden; border-collapse: collapse; width: 100%;">
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.beinborn.eu"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.huds.uni-goettingen.de"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
     <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"><img src="images/urjakhurana.jpeg" alt="Profile picture of Urja Khurana" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
