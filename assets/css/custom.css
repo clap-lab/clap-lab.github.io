@@ -8,7 +8,9 @@ a {
   color: #157870 !important;
 }
 
-.page-header .project-name .project-tagline h2.project-tagline p.project-tagline {
+.page-header .project-tagline,
+.page-header h2.project-tagline,
+.page-header p.project-tagline {
   color: #ffffff !important;
-} 
+}
 
