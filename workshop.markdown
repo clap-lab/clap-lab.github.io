@@ -36,8 +36,7 @@ We proudly announce our two expert speakers for 2026:
 </table>
 ---
 
-# **Program Highlights**  
-
+## **Program Highlights**  
 Our interdisciplinary gathering has become known for a focused and social atmosphere. Our program includes: 
 - keynote talks by renowned international researchers
 - an interactive poster session packed with research on cross-lingual and cognitively inspired modeling
