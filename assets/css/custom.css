@@ -1,12 +1,13 @@
 
 
 
+
 h2, h3, h4, h5, h6 {
   color: #157870 !important;   /* your custom color */
 }
 
 
-.page-header .project-name .project-tagline .project-tagline small {
+.page-header .project-name .project-tagline h2.project-tagline {
   color: #ffffff !important;
 } 
 
