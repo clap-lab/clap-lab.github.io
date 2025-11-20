@@ -1,6 +1,6 @@
 
 h2, h3, h4, h5, h6 {
-  color: #157870    /* huds color */
+  color: #157870  !important;  /* huds color */
 }
 
 /* Change link color */
