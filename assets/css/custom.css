@@ -1,33 +1,14 @@
 
-
-
-
 h2, h3, h4, h5, h6 {
-  color: #157870 !important;   /* your custom color */
+  color: #157870    /* huds color */
 }
 
-
-.page-header .project-name .project-tagline h2.project-tagline {
-  color: #ffffff !important;
-} 
-
-@media screen and (min-width: 64em) {
-  .page-header .project-tagline {
-    color: #ffffff !important;
-  }
-}
-
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .page-header .project-tagline {
-    color: #ffffff !important;
-  }
-}
-
-@media screen and (max-width: 42em) {
-  .page-header .project-tagline {
-    color: #ffffff !important;
-  }
 /* Change link color */
 a {
   color: #157870 !important;
 }
+
+.page-header .project-name .project-tagline h2.project-tagline p.project-tagline {
+  color: #ffffff !important;
+} 
+
