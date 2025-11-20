@@ -1,5 +1,9 @@
 
 /* Change header colors (h1, h2, h3…) */
+h1 {
+  color: #ffffff !important;   /* white header */
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: #157870 !important;   /* your custom color */
 }
