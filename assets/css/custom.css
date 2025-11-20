@@ -1,8 +1,8 @@
 
 
-h1 {
-  color: #ffffff !important;   /* white header */
-}
+.page-header .project-name {
+  color: #ffffff !important;
+} 
 
 h2, h3, h4, h5, h6 {
   color: #157870 !important;   /* your custom color */
