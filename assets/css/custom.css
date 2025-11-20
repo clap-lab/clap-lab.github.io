@@ -6,7 +6,7 @@ h2, h3, h4, h5, h6 {
 }
 
 
-.page-header .project-name .project-tagline {
+.page-header .project-name .project-tagline .project-tagline small {
   color: #ffffff !important;
 } 
 
