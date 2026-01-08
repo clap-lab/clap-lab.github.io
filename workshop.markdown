@@ -36,39 +36,36 @@ We proudly announce our two expert speakers for 2026:
 </table>
 ---
 
-## **Program Highlights**  
-Our interdisciplinary gathering has become known for a focused and social atmosphere. Our program includes: 
-- keynote talks by renowned international researchers
-- an interactive poster session packed with research on cross-lingual and cognitively inspired modeling
-- idea pitches and cooperative sessions
-- guided tour of Carl Friedrich Gauss' historical observatory
-- workshop dinner 
+## **Program**  
 
-<!--
 ### **Monday, March 16, 2026** 
 <table>
  <tr>
-  <td><b>13:30 - 13:50</b></td>
+  <td><b>13:30 - 13:45</b></td>
   <td>Opening</td>
  </tr>
  <tr>
-  <td><b>13:50 - 14:50</b></td>
-  <td><em>Debora Nozza:</em> Subjectivity in Cross-Lingual NLP</td>
+  <td><b>13:45 - 14:45</b></td>
+  <td><em>Terra Blevins:</em> Breaking the Curse of Multilinguality</td>
  </tr>
  <tr>
-  <td><b>14:50 - 15:00</b></td>
+  <td><b>14:45 - 15:00</b></td>
   <td>Social Clustering</td>
  </tr>
  <tr>
   <td><b>15:00 - 15:30</b></td>
-  <td><em>Lucie Flek:</em> Stereotypes in Multilingual Models</td>
+  <td><em>Sina Zarrieß:</em>Towards Communicative BabyLMs</td>
  </tr>
  <tr>
   <td><b>15:30 - 16:00</b></td>
   <td>Break</td>
  </tr>
+  <tr>
+  <td><b>16:00 - 16:30</b></td>
+  <td>Idea Pitches: The Question</td>
+ </tr>
  <tr>
-  <td><b>16:00 - 18:00</b></td>
+  <td><b>16:30 - 18:00</b></td>
   <td>Poster Session</td>
  </tr>
 </table>
@@ -81,18 +78,18 @@ Our interdisciplinary gathering has become known for a focused and social atmosp
  </tr>
  <tr>
   <td><b>09:00 - 10:00</b></td>
-  <td><em>Yuval Pinter:</em> Cross-Lingual Challenges in Tokenization</td>
+  <td><em>Tessa Verhoef:</em> Emergent Linguistic Structure in Agent Communication</td>
  </tr>
  <tr>
   <td><b>10:00 - 10:30</b></td>
-  <td>Idea Pitches: The Question</td>
+  <td><em>Guest Speaker</em></td>
  </tr>
  <tr>
-  <td><b>10:30 - 10:50</b></td>
+  <td><b>10:30 - 10:45</b></td>
   <td>Coffee Break + Group Formation</td>
  </tr>
  <tr>
-  <td><b>10:50 - 12:00</b></td>
+  <td><b>10:45 - 12:00</b></td>
   <td>Group Work Session 1: Finding Common Ground</td>
  </tr>
  <tr>
@@ -101,7 +98,7 @@ Our interdisciplinary gathering has become known for a focused and social atmosp
  </tr>
  <tr>
   <td><b>13:00 - 13:30</b></td>
-  <td><em>Nivedita Mani:</em> Cognitive Models of L1 Acquisition</td>
+  <td><em>Lukas Galke Poech:</em> Isolating Culture Neurons in Multilingual Large Language Models</td>
  </tr>
  <tr>
   <td><b>13:30 - 14:15</b></td>
@@ -115,30 +112,26 @@ Our interdisciplinary gathering has become known for a focused and social atmosp
   <td><b>14:55 - 15:00</b></td>
   <td>Closing Remarks</td>
  </tr>
-</table>  
--->
-
-<!--
+</table> 
 
 ## **Posters**
-* [Zebulon Goriely:](https://www.cst.cam.ac.uk/people/zg258) From babble to words: Pre-training language models on continuous streams of phonemes <br>
-* [Bastian Bunzeck:](https://bbunzeck.github.io/) Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas <br>
-* [Iza Škrjanec:](https://www.uni-saarland.de/en/lehrstuhl/demberg/members/iza-skrjanec.html) Evaluating Cognitive Plausibility in Multilingual Tokenization Strategies: Insights from Language Models and Reading Times <br>
-* [Francesca Padovani:](https://fpadovani.github.io/) What is the real benefit of using Child Directed Language for Language Modeling? <br>
-* [David Reich:](https://david.reich.ai/) The Pupil Becomes the Master: Eye-Tracking Feedback for Tuning LLMs <br>
-* [Marianne de Heer Kloots:](https://mdhk.net/) Investigating language learning trajectories in self-supervised speech models <br>
-* [Kathy Hämmerl:](https://cis.uni-muenchen.de/~haemmerl/) Understanding Cross-Lingual Alignment <br>
-* [Vera Neplenbroek:](https://veranep.github.io/) Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation <br>
-* [Siyao Peng:](https://logan-siyao-peng.github.io/) VariErr NLI: Separating Annotation Error from Human Label Variation <br>
-* [Verena Blaschke:](https://verenablaschke.github.io/) What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects <br>
-* [Franziska Weeber:](https://www.linkedin.com/in/franziska-weeber/) Cross-Lingual Political Biases in Multilingual Large Language Models <br>
-* [Jesujoba O. Alabi:](https://ajesujoba.github.io/) AfriHuBERT: A self-supervised speech representation model for African languages <br>
-* [Suchir Salhan:](https://www.suchirsalhan.com/) Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies <br>
-* [Akari Haga:](https://akari000.github.io/) BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency <br>
-* [Jaap Jumelet:](https://jumelet.ai/) Extending BLiMP To Many Languages <br>
-* [Yevgen Matusevych:](https://yevgen.web.rug.nl/) Evaluating Cross-Lingual Transfer from English and Chinese <br>
-* [Jan Batzner:](https://www.weizenbaum-institut.de/portrait/p/jan-batzner/) GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy <br>
--->
+* [Bastian Bunzeck:](https://bbunzeck.github.io/) Constructing a language model's language <br>
+* [Jonas Mayer Martins:](https://huds.uni-goettingen.de/content/team/jonas_mayer_martins.html) Interaction fo typology and Learnability <br>
+* [Anna Bondar:](https://www.linkedin.com/in/anna-bondar-588481365/) AlEYEgnment: Leveraging Eye-Tracking-while-Reading to Align Language Models with Human Preferences <br>
+* [Milena Belosevic:](https://milenabelosevic.github.io/) Testing multilingual models on German political cartoons <br>
+* [Laurits Lyngbæk:](https://www.linkedin.com/in/lauritswl/) Continuous Sentiment Scores for Literary and Multilingual Contexts <br>
+* [Zrinka Kolakovic:](https://www.linkedin.com/in/zrinka-kolakovic-a4030b23b) Testing the limits of AI in annotating contrast: A case study with data from the Croatian language corpus Riznica <br>
+* [Edyta Jurkiewicz-Rohrbacher:](https://www.linkedin.com/in/edyta-jurkiewicz-rohrbacher-65047113) Testing the Syntactic Competence of Large Language Models with a Translation Task <br>
+* [Andreas Säuberli:](https://saeub.github.io/) Using models of eye movements to manipulate reading behavior in text generation <br>
+* [Lukas Galke Poech:](https://lgalke.github.io/) Isolating Culture Neurons in Multilingual Large Language Models <br>
+* [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Linguistic Variation in Regional, Non-standardized Languages <br>
+* [Przemek Kubiak:](https://www.linkedin.com/in/przemek-kubiak-7996181a8/) Biologically Informed Refinement of Attention Heads <br>
+* [Wessel Poelman:](https://wesselpoelman.nl/) Evaluation Metrics for Conditional Language Models <br>
+* [Sina Zarrieß:](https://sinazarriess.github.io/) Linguistic Creativity <br>
+* [Lily Goulder:](https://www.linkedin.com/in/lily-minerva-goulder/) TBD <br>
+* [Aoifa O’Driscoll:](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1) TBD <br>
+* [Laura Barbenel:](https://www.cst.cam.ac.uk/people/lgb35) TBD <br>
+* [Marianne de Heer Kloots:](https://mdhk.net/) TBD <br>
   
 ---
 ![Impressions from HumanCLAIM 2025](images/HumanCLAIM2025_photos.png?raw=true "HumanCLAIM 2025")
