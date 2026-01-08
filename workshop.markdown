@@ -54,7 +54,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>15:00 - 15:30</b></td>
-  <td><em>Sina Zarrieß:</em>Towards Communicative BabyLMs</td>
+  <td><em>Sina Zarrieß:</em> Towards Communicative BabyLMs</td>
  </tr>
  <tr>
   <td><b>15:30 - 16:00</b></td>
@@ -98,7 +98,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>13:00 - 13:30</b></td>
-  <td><em>Lukas Galke Poech:</em> Isolating Culture Neurons in Multilingual Large Language Models</td>
+  <td><em>Lukas Galke Poech:</em> Isolating Culture Neurons in Multilingual LLMs</td>
  </tr>
  <tr>
   <td><b>13:30 - 14:15</b></td>
