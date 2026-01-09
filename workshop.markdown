@@ -126,7 +126,7 @@ We proudly announce our two expert speakers for 2026:
 * [Lukas Galke Poech:](https://lgalke.github.io/) Isolating Culture Neurons in Multilingual Large Language Models <br>
 * [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Linguistic Variation in Regional, Non-standardized Languages <br>
 * [Przemek Kubiak:](https://www.linkedin.com/in/przemek-kubiak-7996181a8/) Biologically Informed Refinement of Attention Heads <br>
-* [Wessel Poelman:](https://wesselpoelman.nl/) Evaluation Metrics for Conditional Language Models <br>
+* [Wessel Poelman:](https://wesselpoelman.nl/) Form and Meaning in Intrinsic Multilingual Evaluations <br>
 * [Sina Zarrieß:](https://sinazarriess.github.io/) Linguistic Creativity <br>
 * [Lily Goulder:](https://www.linkedin.com/in/lily-minerva-goulder/) TBD <br>
 * [Aoifa O’Driscoll:](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1) TBD <br>
