@@ -115,14 +115,14 @@ We proudly announce our two expert speakers for 2026:
 </table> 
 
 ## **Posters**
-* [Bastian Bunzeck:](https://bbunzeck.github.io/) Constructing a language model's language <br>
-* [Jonas Mayer Martins:](https://huds.uni-goettingen.de/content/team/jonas_mayer_martins.html) Interaction fo typology and Learnability <br>
+* [Bastian Bunzeck:](https://bbunzeck.github.io/) Constructing a Language Model's Language <br>
+* [Jonas Mayer Martins:](https://huds.uni-goettingen.de/content/team/jonas_mayer_martins.html) Interaction of Typology and Learnability <br>
 * [Anna Bondar:](https://www.linkedin.com/in/anna-bondar-588481365/) AlEYEgnment: Leveraging Eye-Tracking-while-Reading to Align Language Models with Human Preferences <br>
-* [Milena Belosevic:](https://milenabelosevic.github.io/) Testing multilingual models on German political cartoons <br>
+* [Milena Belosevic:](https://milenabelosevic.github.io/) Testing Multilingual Models on German Political Cartoons <br>
 * [Laurits Lyngbæk:](https://www.linkedin.com/in/lauritswl/) Continuous Sentiment Scores for Literary and Multilingual Contexts <br>
-* [Zrinka Kolakovic:](https://www.linkedin.com/in/zrinka-kolakovic-a4030b23b) Testing the limits of AI in annotating contrast: A case study with data from the Croatian language corpus Riznica <br>
+* [Zrinka Kolakovic:](https://www.linkedin.com/in/zrinka-kolakovic-a4030b23b) Testing the Limits of AI in Annotating Contrast: A Case Study with Data from the Croatian Language Corpus Riznica <br>
 * [Edyta Jurkiewicz-Rohrbacher:](https://www.linkedin.com/in/edyta-jurkiewicz-rohrbacher-65047113) Testing the Syntactic Competence of Large Language Models with a Translation Task <br>
-* [Andreas Säuberli:](https://saeub.github.io/) Using models of eye movements to manipulate reading behavior in text generation <br>
+* [Andreas Säuberli:](https://saeub.github.io/) Using Models of Eye Movements to Manipulate Reading Behavior in Text Generation <br>
 * [Lukas Galke Poech:](https://lgalke.github.io/) Isolating Culture Neurons in Multilingual Large Language Models <br>
 * [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Linguistic Variation in Regional, Non-standardized Languages <br>
 * [Przemek Kubiak:](https://www.linkedin.com/in/przemek-kubiak-7996181a8/) Biologically Informed Refinement of Attention Heads <br>
