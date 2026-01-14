@@ -124,7 +124,7 @@ We proudly announce our two expert speakers for 2026:
 * [Edyta Jurkiewicz-Rohrbacher:](https://www.linkedin.com/in/edyta-jurkiewicz-rohrbacher-65047113) Testing the Syntactic Competence of Large Language Models with a Translation Task <br>
 * [Andreas Säuberli:](https://saeub.github.io/) Using Models of Eye Movements to Manipulate Reading Behavior in Text Generation <br>
 * [Lukas Galke Poech:](https://lgalke.github.io/) Isolating Culture Neurons in Multilingual Large Language Models <br>
-* [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Linguistic Variation in Regional, Non-standardized Languages <br>
+* [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Computational Modeling of Linguistic Variation in Non-Standardized Languages: Insights from Corsican and Poitevin-Saintongeais  <br>
 * [Przemek Kubiak:](https://www.linkedin.com/in/przemek-kubiak-7996181a8/) Biologically Informed Refinement of Attention Heads <br>
 * [Wessel Poelman:](https://wesselpoelman.nl/) Form and Meaning in Intrinsic Multilingual Evaluations <br>
 * [Sina Zarrieß:](https://sinazarriess.github.io/) Linguistic Creativity <br>
