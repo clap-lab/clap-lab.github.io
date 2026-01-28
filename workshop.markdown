@@ -42,31 +42,31 @@ We proudly announce our two expert speakers for 2026:
 <table>
  <tr>
   <td><b>13:30 - 13:45</b></td>
-  <td>[Lisa Beinborn](https://huds.uni-goettingen.de/): Opening</td>
+  <td><a href="https://huds.uni-goettingen.de/">Lisa Beinborn</a>: <em>Opening</em>em></td>
  </tr>
  <tr>
   <td><b>13:45 - 14:45</b></td>
-  <td><em>[Terra Blevins](https://blvns.github.io/)</em>: Breaking the Curse of Multilinguality</td>
+  <td><a href="https://blvns.github.io/)>Terra Blevins<a>: <em>Breaking the Curse of Multilinguality</em></td>
  </tr>
  <tr>
   <td><b>14:45 - 15:00</b></td>
-  <td>Social Clustering</td>
+  <td><em>Social Clustering</em></td>
  </tr>
  <tr>
   <td><b>15:00 - 15:30</b></td>
-  <td><em>[Sina Zarrieß](https://clause-bielefeld.github.io/)</em>: Towards Communicative BabyLMs</td>
+  <td><a href="https://clause-bielefeld.github.io/">Sina Zarrieß</a>: <em>Towards Communicative BabyLMs</em></td>
  </tr>
  <tr>
   <td><b>15:30 - 16:00</b></td>
-  <td>Coffee Break</td>
+  <td><em>Coffee Break</em></td>
  </tr>
   <tr>
   <td><b>16:00 - 16:30</b></td>
-  <td>Idea Pitches: The Question</td>
+  <td><em>Idea Pitches: The Question</em></td>
  </tr>
  <tr>
   <td><b>16:30 - 18:00</b></td>
-  <td>Poster Session</td>
+  <td><em>Poster Session</em></td>
  </tr>
 </table>
 
@@ -74,43 +74,43 @@ We proudly announce our two expert speakers for 2026:
 <table>
  <tr>
   <td><b>08:30 - 09:00</b></td>
-  <td>Walk-in Coffee ☕</td>
+  <td><em>Walk-in Coffee</em> ☕</td>
  </tr>
  <tr>
   <td><b>09:00 - 10:00</b></td>
-  <td><em>[Tessa Verhoef](https://sites.google.com/view/tessa-verhoef/home)</em>: Emergent Linguistic Structure in Agent Communication</td>
+  <td><a href="https://sites.google.com/view/tessa-verhoef/home">Tessa Verhoef</a>: <em> Emergent Linguistic Structure in Agent Communication </em></td>
  </tr>
  <tr>
   <td><b>10:00 - 10:30</b></td>
-  <td><em>[Rochelle Choenni](https://rochellechoenni.github.io/)</em>: The Trade-Off between Multilinguality and Sparsification</td>
+  <td><a href="https://rochellechoenni.github.io/">Rochelle Choenni</a>: <em>The Trade-Off between Multilinguality and Sparsification</em></td>
  </tr>
  <tr>
   <td><b>10:30 - 10:45</b></td>
-  <td>Coffee Break + Group Formation</td>
+  <td><em>Coffee Break + Group Formation</em></td>
  </tr>
  <tr>
   <td><b>10:45 - 12:00</b></td>
-  <td>Group Work Session 1: Finding Common Ground</td>
+  <td><em>Group Work Session 1: Finding Common Ground</em></td>
  </tr>
  <tr>
   <td><b>12:00 - 13:00</b></td>
-  <td>Lunch 🍽</td>
+  <td><em>Lunch</em> 🍽</td>
  </tr>
  <tr>
   <td><b>13:00 - 13:30</b></td>
-  <td><em>[Lukas Galke Poech](https://lgalke.github.io/)</em>: Isolating Culture Neurons in Multilingual LLMs</td>
+  <td><a href="https://lgalke.github.io/">Lukas Galke Poech</a>: <em>Isolating Culture Neurons in Multilingual LLMs</em></td>
  </tr>
  <tr>
   <td><b>13:30 - 14:15</b></td>
-  <td>Group Work Session 2: Preparing Pitches</td>
+  <td><em>Group Work Session 2: Preparing Pitches</em></td>
  </tr>
  <tr>
   <td><b>14:15 - 14:50</b></td>
-  <td>Pitch Voting: The Project to Find the Answer</td>
+  <td><em>Pitch Voting: The Project to Find the Answer</em></td>
  </tr>
  <tr>
   <td><b>14:50 - 15:00</b></td>
-  <td>Closing Remarks</td>
+  <td><em>Closing Remarks</em></td>
  </tr>
 </table> 
 
