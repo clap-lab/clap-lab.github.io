@@ -125,9 +125,9 @@ We proudly announce our two expert speakers for 2026:
 * [Milena Belosevic:](https://milenabelosevic.github.io/) Testing Multilingual Models on German Political Cartoons <br>
 * [Andreas Säuberli:](https://saeub.github.io/) Controlling Reading Ease with Gaze-Guided Text Generation <br>
 * [Laurits Lyngbæk:](https://www.linkedin.com/in/lauritswl/) Continuous Sentiment Scores for Literary and Multilingual Contexts <br>
-* [Zrinka Kolakovic:](https://www.linkedin.com/in/zrinka-kolakovic-a4030b23b) Testing the Limits of AI in Annotating Contrast: A Case Study with Data from the Croatian Language Corpus Riznica <br>
+* [Zrinka Kolakovic:](https://www.linkedin.com/in/zrinka-kolakovic-a4030b23b) Testing the Limits of AI in Annotating Contrast in Croatian<br>
 * [Edyta Jurkiewicz-Rohrbacher:](https://www.linkedin.com/in/edyta-jurkiewicz-rohrbacher-65047113) Testing the Syntactic Competence of Large Language Models with a Translation Task <br>
-* [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Computational Modeling of Linguistic Variation in Non-Standardized Languages: Insights from Corsican and Poitevin-Saintongeais  <br>
+* [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Computational Modeling of Linguistic Variation in Non-Standardized Languages  <br>
 * [Lily Goulder:](https://www.linkedin.com/in/lily-minerva-goulder/) TBD <br>
 * [Aoifa O’Driscoll:](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1) TBD <br>
 * [Laura Barbenel:](https://www.cst.cam.ac.uk/people/lgb35) TBD <br>
