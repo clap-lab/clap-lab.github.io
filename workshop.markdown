@@ -42,11 +42,11 @@ We proudly announce our two expert speakers for 2026:
 <table>
  <tr>
   <td><b>13:30 - 13:45</b></td>
-  <td>[Lisa Beinborn](https://huds.uni-goettingen.de/): Opening</td>
+  <td><em>[Lisa Beinborn](https://huds.uni-goettingen.de/)</em>em>: Opening</td>
  </tr>
  <tr>
   <td><b>13:45 - 14:45</b></td>
-  <td><em>[Terra Blevins](https://blvns.github.io/):</em> Breaking the Curse of Multilinguality</td>
+  <td><em>[Terra Blevins](https://blvns.github.io/)</em>: Breaking the Curse of Multilinguality</td>
  </tr>
  <tr>
   <td><b>14:45 - 15:00</b></td>
@@ -54,7 +54,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>15:00 - 15:30</b></td>
-  <td><em>[Sina Zarrieß](https://clause-bielefeld.github.io/):</em> Towards Communicative BabyLMs</td>
+  <td><em>[Sina Zarrieß](https://clause-bielefeld.github.io/)</em>: Towards Communicative BabyLMs</td>
  </tr>
  <tr>
   <td><b>15:30 - 16:00</b></td>
@@ -78,11 +78,11 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>09:00 - 10:00</b></td>
-  <td><em>[Tessa Verhoef](https://sites.google.com/view/tessa-verhoef/home):</em> Emergent Linguistic Structure in Agent Communication</td>
+  <td><em>[Tessa Verhoef](https://sites.google.com/view/tessa-verhoef/home)</em>: Emergent Linguistic Structure in Agent Communication</td>
  </tr>
  <tr>
   <td><b>10:00 - 10:30</b></td>
-  <td><em>[Rochelle Choenni](https://rochellechoenni.github.io/):</em> The Trade-Off between Multilinguality and Sparsification</td>
+  <td><em>[Rochelle Choenni](https://rochellechoenni.github.io/)</em>: The Trade-Off between Multilinguality and Sparsification</td>
  </tr>
  <tr>
   <td><b>10:30 - 10:45</b></td>
@@ -98,7 +98,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>13:00 - 13:30</b></td>
-  <td><em>[Lukas Galke Poech](https://lgalke.github.io/):</em> Isolating Culture Neurons in Multilingual LLMs</td>
+  <td><em>[Lukas Galke Poech](https://lgalke.github.io/)</em>: Isolating Culture Neurons in Multilingual LLMs</td>
  </tr>
  <tr>
   <td><b>13:30 - 14:15</b></td>
