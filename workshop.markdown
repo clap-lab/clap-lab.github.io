@@ -42,7 +42,7 @@ We proudly announce our two expert speakers for 2026:
 <table>
  <tr>
   <td><b>13:30 - 13:45</b></td>
-  <td><em>[Lisa Beinborn](https://huds.uni-goettingen.de/)</em>em>: Opening</td>
+  <td>[Lisa Beinborn](https://huds.uni-goettingen.de/): Opening</td>
  </tr>
  <tr>
   <td><b>13:45 - 14:45</b></td>
