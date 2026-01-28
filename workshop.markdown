@@ -42,7 +42,7 @@ We proudly announce our two expert speakers for 2026:
 <table>
  <tr>
   <td><b>13:30 - 13:45</b></td>
-  <td>Lisa Beinborn: Opening</td>
+  <td>[Lisa Beinborn](https://huds.uni-goettingen.de/): Opening</td>
  </tr>
  <tr>
   <td><b>13:45 - 14:45</b></td>
@@ -58,7 +58,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>15:30 - 16:00</b></td>
-  <td>Break</td>
+  <td>Coffee Break</td>
  </tr>
   <tr>
   <td><b>16:00 - 16:30</b></td>
@@ -118,7 +118,6 @@ We proudly announce our two expert speakers for 2026:
 * [Bastian Bunzeck:](https://bbunzeck.github.io/) Constructing a Language Model's Language <br>
 * [Anna Bondar:](https://www.linkedin.com/in/anna-bondar-588481365/) AlEYEgnment: Leveraging Eye-Tracking-while-Reading to Align Language Models with Human Preferences <br>
 * [Przemek Kubiak:](https://www.linkedin.com/in/przemek-kubiak-7996181a8/) Biologically Informed Refinement of Attention Heads <br>
-
 * [Jonas Mayer Martins:](https://huds.uni-goettingen.de/content/team/jonas_mayer_martins.html) Interaction of Typology and Learnability <br>
 * [Wessel Poelman:](https://wesselpoelman.nl/) Form and Meaning in Intrinsic Multilingual Evaluations <br>
 * [Sina Zarrieß:](https://sinazarriess.github.io/) Modeling Linguistic Creativity <br>
@@ -161,7 +160,7 @@ We proudly announce our two expert speakers for 2026:
       
  </tr>
  <tr>
-  <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://www.beinborn.eu">Lisa Beinborn</a><br>(University of Goettingen)</td>
+  <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://huds.uni-goettingen.de/">Lisa Beinborn</a><br>(University of Goettingen)</td>
     <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"> Urja Khurana</a><br>(Delft University of Technology)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/zhuojing-huang-624a6b288">Zhoujing Huang</a><br>(University of Goettingen)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/luise-pohlmann-4444b5342/?originalSubdomain=de">Luise Pohlmann</a><br>(University of Goettingen)</td>
