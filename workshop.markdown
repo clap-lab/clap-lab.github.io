@@ -42,11 +42,11 @@ We proudly announce our two expert speakers for 2026:
 <table>
  <tr>
   <td><b>13:30 - 13:45</b></td>
-  <td>Opening</td>
+  <td>Lisa Beinborn: Opening</td>
  </tr>
  <tr>
   <td><b>13:45 - 14:45</b></td>
-  <td><em>Terra Blevins:</em> Breaking the Curse of Multilinguality</td>
+  <td><em>[Terra Blevins](https://blvns.github.io/):</em> Breaking the Curse of Multilinguality</td>
  </tr>
  <tr>
   <td><b>14:45 - 15:00</b></td>
@@ -54,7 +54,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>15:00 - 15:30</b></td>
-  <td><em>Sina Zarrieß:</em> Towards Communicative BabyLMs</td>
+  <td><em>[Sina Zarrieß](https://clause-bielefeld.github.io/):</em> Towards Communicative BabyLMs</td>
  </tr>
  <tr>
   <td><b>15:30 - 16:00</b></td>
@@ -78,11 +78,11 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>09:00 - 10:00</b></td>
-  <td><em>Tessa Verhoef:</em> Emergent Linguistic Structure in Agent Communication</td>
+  <td><em>[Tessa Verhoef](https://sites.google.com/view/tessa-verhoef/home):</em> Emergent Linguistic Structure in Agent Communication</td>
  </tr>
  <tr>
   <td><b>10:00 - 10:30</b></td>
-  <td><em>Guest Speaker</em></td>
+  <td><em>[Rochelle Choenni](https://rochellechoenni.github.io/):</em> The Trade-Off between Multilinguality and Sparsification</td>
  </tr>
  <tr>
   <td><b>10:30 - 10:45</b></td>
@@ -98,36 +98,37 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>13:00 - 13:30</b></td>
-  <td><em>Lukas Galke Poech:</em> Isolating Culture Neurons in Multilingual LLMs</td>
+  <td><em>[Lukas Galke Poech](https://lgalke.github.io/):</em> Isolating Culture Neurons in Multilingual LLMs</td>
  </tr>
  <tr>
   <td><b>13:30 - 14:15</b></td>
   <td>Group Work Session 2: Preparing Pitches</td>
  </tr>
  <tr>
-  <td><b>14:15 - 14:55</b></td>
-  <td>Group Pitches: The Project to Find the Answer</td>
+  <td><b>14:15 - 14:50</b></td>
+  <td>Pitch Voting: The Project to Find the Answer</td>
  </tr>
  <tr>
-  <td><b>14:55 - 15:00</b></td>
+  <td><b>14:50 - 15:00</b></td>
   <td>Closing Remarks</td>
  </tr>
 </table> 
 
 ## **Posters**
 * [Bastian Bunzeck:](https://bbunzeck.github.io/) Constructing a Language Model's Language <br>
-* [Jonas Mayer Martins:](https://huds.uni-goettingen.de/content/team/jonas_mayer_martins.html) Interaction of Typology and Learnability <br>
 * [Anna Bondar:](https://www.linkedin.com/in/anna-bondar-588481365/) AlEYEgnment: Leveraging Eye-Tracking-while-Reading to Align Language Models with Human Preferences <br>
+* [Przemek Kubiak:](https://www.linkedin.com/in/przemek-kubiak-7996181a8/) Biologically Informed Refinement of Attention Heads <br>
+
+* [Jonas Mayer Martins:](https://huds.uni-goettingen.de/content/team/jonas_mayer_martins.html) Interaction of Typology and Learnability <br>
+* [Wessel Poelman:](https://wesselpoelman.nl/) Form and Meaning in Intrinsic Multilingual Evaluations <br>
+* [Sina Zarrieß:](https://sinazarriess.github.io/) Modeling Linguistic Creativity <br>
+* [Lukas Galke Poech:](https://lgalke.github.io/) Isolating Culture Neurons in Multilingual Large Language Models <br>
 * [Milena Belosevic:](https://milenabelosevic.github.io/) Testing Multilingual Models on German Political Cartoons <br>
+* [Andreas Säuberli:](https://saeub.github.io/) Using Models of Eye Movements to Manipulate Reading Behavior in Text Generation <br>
 * [Laurits Lyngbæk:](https://www.linkedin.com/in/lauritswl/) Continuous Sentiment Scores for Literary and Multilingual Contexts <br>
 * [Zrinka Kolakovic:](https://www.linkedin.com/in/zrinka-kolakovic-a4030b23b) Testing the Limits of AI in Annotating Contrast: A Case Study with Data from the Croatian Language Corpus Riznica <br>
 * [Edyta Jurkiewicz-Rohrbacher:](https://www.linkedin.com/in/edyta-jurkiewicz-rohrbacher-65047113) Testing the Syntactic Competence of Large Language Models with a Translation Task <br>
-* [Andreas Säuberli:](https://saeub.github.io/) Using Models of Eye Movements to Manipulate Reading Behavior in Text Generation <br>
-* [Lukas Galke Poech:](https://lgalke.github.io/) Isolating Culture Neurons in Multilingual Large Language Models <br>
 * [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Computational Modeling of Linguistic Variation in Non-Standardized Languages: Insights from Corsican and Poitevin-Saintongeais  <br>
-* [Przemek Kubiak:](https://www.linkedin.com/in/przemek-kubiak-7996181a8/) Biologically Informed Refinement of Attention Heads <br>
-* [Wessel Poelman:](https://wesselpoelman.nl/) Form and Meaning in Intrinsic Multilingual Evaluations <br>
-* [Sina Zarrieß:](https://sinazarriess.github.io/) Linguistic Creativity <br>
 * [Lily Goulder:](https://www.linkedin.com/in/lily-minerva-goulder/) TBD <br>
 * [Aoifa O’Driscoll:](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1) TBD <br>
 * [Laura Barbenel:](https://www.cst.cam.ac.uk/people/lgb35) TBD <br>
