@@ -42,15 +42,15 @@ We proudly announce our two expert speakers for 2026:
 <table>
  <tr>
   <td><b>13:30 - 13:45</b></td>
-  <td><a href="https://huds.uni-goettingen.de/">Lisa Beinborn</a>: <em>Opening</em>em></td>
+  <td><a href="https://huds.uni-goettingen.de/">Lisa Beinborn</a>: <em>Opening</em></td>
  </tr>
  <tr>
   <td><b>13:45 - 14:45</b></td>
-  <td><a href="https://blvns.github.io/)>Terra Blevins<a>: <em>Breaking the Curse of Multilinguality</em></td>
+  <td><a href="https://blvns.github.io/">Terra Blevins</a>: <em>Breaking the Curse of Multilinguality</em></td>
  </tr>
  <tr>
   <td><b>14:45 - 15:00</b></td>
-  <td><em>Social Clustering</em></td>
+  <td>Social Clustering</td>
  </tr>
  <tr>
   <td><b>15:00 - 15:30</b></td>
@@ -58,15 +58,15 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>15:30 - 16:00</b></td>
-  <td><em>Coffee Break</em></td>
+  <td>Coffee Break</td>
  </tr>
   <tr>
   <td><b>16:00 - 16:30</b></td>
-  <td><em>Idea Pitches: The Question</em></td>
+  <td>Idea Pitches</td>
  </tr>
  <tr>
   <td><b>16:30 - 18:00</b></td>
-  <td><em>Poster Session</em></td>
+  <td>Poster Session</td>
  </tr>
 </table>
 
@@ -74,11 +74,11 @@ We proudly announce our two expert speakers for 2026:
 <table>
  <tr>
   <td><b>08:30 - 09:00</b></td>
-  <td><em>Walk-in Coffee</em> ☕</td>
+  <td>Walk-in Coffee ☕</td>
  </tr>
  <tr>
   <td><b>09:00 - 10:00</b></td>
-  <td><a href="https://sites.google.com/view/tessa-verhoef/home">Tessa Verhoef</a>: <em> Emergent Linguistic Structure in Agent Communication </em></td>
+  <td><a href="https://sites.google.com/view/tessa-verhoef/home">Tessa Verhoef</a>: <em>Emergent Linguistic Structure in Agent Communication </em></td>
  </tr>
  <tr>
   <td><b>10:00 - 10:30</b></td>
@@ -86,15 +86,15 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>10:30 - 10:45</b></td>
-  <td><em>Coffee Break + Group Formation</em></td>
+  <td>Coffee Break + Group Formation</td>
  </tr>
  <tr>
   <td><b>10:45 - 12:00</b></td>
-  <td><em>Group Work Session 1: Finding Common Ground</em></td>
+  <td>Group Work Session 1: Finding Common Ground</td>
  </tr>
  <tr>
   <td><b>12:00 - 13:00</b></td>
-  <td><em>Lunch</em> 🍽</td>
+  <td>Lunch 🍽</td>
  </tr>
  <tr>
   <td><b>13:00 - 13:30</b></td>
@@ -102,15 +102,15 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>13:30 - 14:15</b></td>
-  <td><em>Group Work Session 2: Preparing Pitches</em></td>
+  <td>Group Work Session 2: Preparing Pitches</td>
  </tr>
  <tr>
   <td><b>14:15 - 14:50</b></td>
-  <td><em>Pitch Voting: The Project to Find the Answer</em></td>
+  <td>Pitch Voting</td>
  </tr>
  <tr>
   <td><b>14:50 - 15:00</b></td>
-  <td><em>Closing Remarks</em></td>
+  <td>Closing Remarks</td>
  </tr>
 </table> 
 
