@@ -129,7 +129,6 @@ We proudly announce our two expert speakers for 2026:
 * [Edyta Jurkiewicz-Rohrbacher:](https://www.linkedin.com/in/edyta-jurkiewicz-rohrbacher-65047113) Testing the Syntactic Competence of Large Language Models with a Translation Task <br>
 * [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Computational Modeling of Linguistic Variation in Non-Standardized Languages  <br>
 * [Lily Goulder:](https://www.linkedin.com/in/lily-minerva-goulder/) and [Aoifa O’Driscoll:](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1) Detecting L1 transfer in bilingual language models: A human-centric approach <br>
-* [Laura Barbenel:](https://www.cst.cam.ac.uk/people/lgb35) TBD <br>
 * [Marianne de Heer Kloots:](https://mdhk.net/) TBD <br>
   
 ---
