@@ -62,7 +62,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
   <tr>
   <td><b>16:00 - 16:30</b></td>
-  <td>Idea Pitches</td>
+  <td>Project Ideas</td>
  </tr>
  <tr>
   <td><b>16:30 - 18:00</b></td>
