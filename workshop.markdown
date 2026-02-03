@@ -128,7 +128,7 @@ We proudly announce our two expert speakers for 2026:
 * [Zrinka Kolakovic:](https://www.linkedin.com/in/zrinka-kolakovic-a4030b23b) Testing the Limits of AI in Annotating Contrast in Croatian<br>
 * [Edyta Jurkiewicz-Rohrbacher:](https://www.linkedin.com/in/edyta-jurkiewicz-rohrbacher-65047113) Testing the Syntactic Competence of Large Language Models with a Translation Task <br>
 * [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Computational Modeling of Linguistic Variation in Non-Standardized Languages  <br>
-* [Lily Goulder:](https://www.linkedin.com/in/lily-minerva-goulder/) and [Aoifa O’Driscoll:](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1) Detecting L1 transfer in bilingual language models: A human-centric approach <br>
+* [Lily Goulder](https://www.linkedin.com/in/lily-minerva-goulder/) and [Aoifa O’Driscoll](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1): Detecting L1 transfer in bilingual language models: A human-centric approach <br>
 * [Marianne de Heer Kloots:](https://mdhk.net/) Characterizing Context Effects in Neural Representations of Speech <br>
 * [Zhuojing Huang:](https://huds.uni-goettingen.de/content/team/zhuojing_huang.html) From Vocabulary Expansion to Syntax Adaptation: Examining Transfer Dynamics in Bilingual Models <br>
   
