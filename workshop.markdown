@@ -54,7 +54,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>15:00 - 15:30</b></td>
-  <td><a href="https://clause-bielefeld.github.io/">Sina Zarrieß </a> <a href="https://bbunzeck.github.io/">Bastian Bunzeck/a>: <em>Towards Communicative BabyLMs</em></td>
+  <td><a href="https://clause-bielefeld.github.io/">Sina Zarrieß</a> and <a href="https://bbunzeck.github.io/">Bastian Bunzeck</a>: <em>Towards Communicative BabyLMs</em></td>
  </tr>
  <tr>
   <td><b>15:30 - 16:00</b></td>
