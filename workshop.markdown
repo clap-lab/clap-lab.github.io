@@ -130,6 +130,8 @@ We proudly announce our two expert speakers for 2026:
 * [Lily Goulder](https://www.linkedin.com/in/lily-minerva-goulder/) and [Aoifa O’Driscoll](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1): Detecting L1 transfer in bilingual language models: A human-centric approach <br>
 * [Marianne de Heer Kloots:](https://mdhk.net/) Characterizing Context Effects in Neural Representations of Speech <br>
 * [Zhuojing Huang:](https://huds.uni-goettingen.de/content/team/zhuojing_huang.html) From Vocabulary Expansion to Syntax Adaptation: Examining Transfer Dynamics in Bilingual Models <br>
+* [Yana Veitsman:](https://huds.uni-goettingen.de/content/team/yana_veitsman.html) TBD <br>
+* [Urja Khuarana:](https://urjakh.github.io/) TBD <br>
   
 ---
 ![Impressions from HumanCLAIM 2025](images/HumanCLAIM2025_photos.png?raw=true "HumanCLAIM 2025")
@@ -160,7 +162,7 @@ We proudly announce our two expert speakers for 2026:
  <tr>
   <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://huds.uni-goettingen.de/">Lisa Beinborn</a><br>(University of Goettingen)</td>
     <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"> Urja Khurana</a><br>(Delft University of Technology)</td>
-  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/zhuojing-huang-624a6b288">Zhoujing Huang</a><br>(University of Goettingen)</td>
+  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/zhuojing-huang-624a6b288">Zhuojing Huang</a><br>(University of Goettingen)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/luise-pohlmann-4444b5342/?originalSubdomain=de">Luise Pohlmann</a><br>(University of Goettingen)</td>
  </tr>
 </table>
