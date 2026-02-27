@@ -130,7 +130,7 @@ We proudly announce our two expert speakers for 2026:
 * [Lily Goulder](https://www.linkedin.com/in/lily-minerva-goulder/) and [Aoife O’Driscoll](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1): Detecting L1 transfer in bilingual language models: A human-centric approach <br>
 * [Marianne de Heer Kloots:](https://mdhk.net/) Characterizing Context Effects in Neural Representations of Speech <br>
 * [Zhuojing Huang:](https://huds.uni-goettingen.de/content/team/zhuojing_huang.html) From Vocabulary Expansion to Syntax Adaptation: Examining Transfer Dynamics in Bilingual Models <br>
-* [Yana Veitsman:](https://huds.uni-goettingen.de/content/team/yana_veitsman.html) TBD <br>
+* [Yana Veitsman:](https://huds.uni-goettingen.de/content/team/yana_veitsman.html) Why Better Cross-Lingual Alignment Fails for Better Cross-Lingual Transfer: Case of Encoders <br>
 * [Urja Khuarana:](https://urjakh.github.io/) TBD <br>
   
 ---
