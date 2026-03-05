@@ -132,6 +132,7 @@ We proudly announce our two expert speakers for 2026:
 * [Zhuojing Huang:](https://huds.uni-goettingen.de/content/team/zhuojing_huang.html) From Vocabulary Expansion to Syntax Adaptation: Examining Transfer Dynamics in Bilingual Models <br>
 * [Yana Veitsman:](https://huds.uni-goettingen.de/content/team/yana_veitsman.html) Why Better Cross-Lingual Alignment Fails for Better Cross-Lingual Transfer: Case of Encoders <br>
 * [Urja Khuarana:](https://urjakh.github.io/) Not All Subjectivity is the Same! Defining Desiderata for the Evaluation of Subjectivity in NLP <br>
+* [Aaricia Herygers:](https://huds.uni-goettingen.de/content/team/aaricia_herygers.html) Diagnosing Cross-Lingual Transfer in L2 Learners of Dutch and Bilingual Models <br>
   
 ---
 ![Impressions from HumanCLAIM 2025](images/HumanCLAIM2025_photos.png?raw=true "HumanCLAIM 2025")
