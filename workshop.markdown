@@ -128,7 +128,7 @@ We proudly announce our two expert speakers for 2026:
 * [Edyta Jurkiewicz-Rohrbacher:](https://www.linkedin.com/in/edyta-jurkiewicz-rohrbacher-65047113) Testing the Syntactic Competence of Large Language Models with a Translation Task <br>
 * [Cristina Garcia Holgado:](https://www.linkedin.com/in/cgarciaholgado/) Computational Modeling of Linguistic Variation in Non-Standardized Languages  <br>
 * [Lily Goulder](https://www.linkedin.com/in/lily-minerva-goulder/) and [Aoife O’Driscoll](https://www.linkedin.com/in/aoife-odriscoll-1b80791b1): Detecting L1 transfer in bilingual language models: A human-centric approach <br>
-* [Marianne de Heer Kloots:](https://mdhk.net/) Characterizing Context Effects in Neural Representations of Speech <br>
+* [Marianne de Heer Kloots:](https://mdhk.net/) Context shapes the linguistic structuring and neural alignment of self-supervised speech representations <br>
 * [Zhuojing Huang:](https://huds.uni-goettingen.de/content/team/zhuojing_huang.html) From Vocabulary Expansion to Syntax Adaptation: Examining Transfer Dynamics in Bilingual Models <br>
 * [Yana Veitsman:](https://huds.uni-goettingen.de/content/team/yana_veitsman.html) Why Better Cross-Lingual Alignment Fails for Better Cross-Lingual Transfer: Case of Encoders <br>
 * [Urja Khuarana:](https://urjakh.github.io/) Not All Subjectivity is the Same! Defining Desiderata for the Evaluation of Subjectivity in NLP <br>
