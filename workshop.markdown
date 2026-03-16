@@ -86,7 +86,7 @@ We proudly announce our two expert speakers for 2026:
  </tr>
  <tr>
   <td><b>10:30 - 10:45</b></td>
-  <td>Coffee Break + Group Formation</td>
+  <td>Coffee Break + Finding Groups </td>
  </tr>
  <tr>
   <td><b>10:45 - 12:00</b></td>
