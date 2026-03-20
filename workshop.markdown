@@ -135,7 +135,7 @@ We proudly announce our two expert speakers for 2026:
 * [Aaricia Herygers:](https://huds.uni-goettingen.de/content/team/aaricia_herygers.html) Diagnosing Cross-Lingual Transfer in L2 Learners of Dutch and Bilingual Models <br>
   
 ---
-![Impressions from HumanCLAIM 2025](images/HumanCLAIM2025_photos.png?raw=true "HumanCLAIM 2025")
+![Impressions from HumanCLAIM 2026](images/HumanClaim2026_impressions.png?raw=true "HumanCLAIM 2026")
 
 ---
 ## Organization Committee
