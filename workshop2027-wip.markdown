@@ -54,10 +54,6 @@ TBD
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.huds.uni-goettingen.de"><img src="images/lisabeinborn.jpg" alt="Profile picture of Lisa Beinborn" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/zhuojing-huang-624a6b288"><img src="images/Zhuojing_Huang.png" alt="Profile picture of Zhuojing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
-  </td>
-    <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;">
-     <a href="https://www.linkedin.com/in/luise-pohlmann-4444b5342/?originalSubdomain=de"><img src="images/Luise_Pohlmann.jpg" alt="Profile picture of Luise Pohlmann" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
-  </td>
 
 
   <!--
@@ -71,7 +67,6 @@ TBD
  <tr>
   <td style="border: hidden; padding: 5px; text-align: center; width: 25%;"><a href="https://huds.uni-goettingen.de/">Lisa Beinborn</a><br>(University of Goettingen)</td>
   <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/zhuojing-huang-624a6b288">Zhuojing Huang</a><br>(University of Goettingen)</td>
-  <td style="border: hidden; padding: 5px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/luise-pohlmann-4444b5342/?originalSubdomain=de">Luise Pohlmann</a><br>(University of Goettingen)</td>
  </tr>
 </table>
 
