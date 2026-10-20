@@ -56,6 +56,7 @@ TBD
   </td>
   
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://www.linkedin.com/in/zhuojing-huang-624a6b288"><img src="images/Zhuojing_Huang.png" alt="Profile picture of Zhuojing Huang" style="max-height:20em; width:20em; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
   
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"><img src="images/urjakhurana.jpeg" alt="Profile picture of Richard Urja Khurana" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
@@ -96,4 +97,3 @@ The workshop is funded by *zukunft.niedersachsen*, the joint science funding pro
 <a href="https://zukunft.niedersachsen.de/en/"><img src="images/RZ_VWS_Zukunft-Niedersachsen_Logo_Schwarz_RGB.png" style="max-height:10em; width:auto; object-fit: contain;"></a>
 
 ## Registration
-
