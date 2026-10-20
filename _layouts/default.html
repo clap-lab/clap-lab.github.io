@@ -31,9 +31,10 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <!--If the name of the site is HumanCLAIM Workshop display iframe -->
+      <!--If the name of the site is HumanCLAIM Workshop display registration link -->
            {% if page.title == "HumanCLAIM Workshop" %}
-        <iframe src="https://survey.academiccloud.de/f/186432?lang=en" width="640" height="1743" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <p>Participation in the workshop is free of charge, but the number of participants is limited. To secure your spot, please register using the form below.</p>
+        <p><a class="btn" href="https://survey.academiccloud.de/f/186432?lang=en" target="_blank" rel="noopener">Open the registration form</a></p>
       {% endif %}
 
       <footer class="site-footer">
