@@ -22,7 +22,20 @@ Please [register](#registration) using the form at the bottom of this page. <br>
 
 ---
 ## **Keynote Speakers**  
-TBD
+<table style="border: hidden;">
+ <tr style="border: hidden;">
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.linkedin.com/in/eva-vanmassenhove/"><img src="images/Eva_Vanmassenhove.jpg" alt="Profile picture of Eva Vanmassenhove" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
+  <td style="border: hidden;"><a href="https://www.linkedin.com/in/eva-vanmassenhove/"><b>Eva Vanmassenhove</b></a> (Tilburg University)<br><em>Working title: Losing our Tail, Again: (Un)Natural Selection & Multilingual LLMs</em> 
+  </td>
+ </tr>
+ <tr style="border: hidden;">
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://blvns.github.io/"><img src="images/Byung-Doh_Oh.png" alt="Profile picture of Byung-Doh Oh" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  </td>
+  <td style="border: hidden;"><a href="https://byungdoh.github.io/"><b>Byung-Doh Oh</b></a> (NTU, Singapore)<br><em>Working Title: To model human linguistic prediction, make LLMs less superhuman</em>
+  </td>
+ </tr>
+</table>
 ---
 
 ## **Program**  
