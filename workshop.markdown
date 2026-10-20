@@ -26,13 +26,13 @@ Please [register](#registration) using the form at the bottom of this page. <br>
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.linkedin.com/in/eva-vanmassenhove/"><img src="images/Eva_Vanmassenhove.jpg" alt="Profile picture of Eva Vanmassenhove" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden;"><a href="https://www.linkedin.com/in/eva-vanmassenhove/"><b>Eva Vanmassenhove</b></a> (Tilburg University, Netherlands)<br><em>Working title: Losing our Tail, Again: (Un)Natural Selection & Multilingual LLMs</em> 
+  <td style="border: hidden;"><a href="https://www.linkedin.com/in/eva-vanmassenhove/"><b>Eva Vanmassenhove</b></a> (Tilburg University, Netherlands)<br><em>Title: Losing our Tail, Again: (Un)Natural Selection and Multilingual LLMs</em> 
   </td>
  </tr>
  <tr style="border: hidden;">
   <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://blvns.github.io/"><img src="images/Byung-Doh_Oh.jpg" alt="Profile picture of Byung-Doh Oh" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
-  <td style="border: hidden;"><a href="https://byungdoh.github.io/"><b>Byung-Doh Oh</b></a> (NTU, Singapore)<br><em>Title: Moving beyond surprisal-based modeling: Parafoveal preview and rereading</em>
+  <td style="border: hidden;"><a href="https://byungdoh.github.io/"><b>Byung-Doh Oh</b></a> (NTU, Singapore)<br><em>Title: Moving Beyond Surprisal-Based Modeling: Parafoveal Preview and Rereading</em>
   </td>
  </tr>
 </table>
@@ -61,7 +61,7 @@ TBD
   <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://urjakh.github.io/"><img src="images/urjakhurana.jpeg" alt="Profile picture of Richard Urja Khurana" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
 
-  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://huds.uni-goettingen.de/content/team/yana_veitsman.html"><img src="images/YanaVeitsman.JPG" alt="Profile picture of Yana Veitsman" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 20px; vertical-align: middle; text-align: center; width: 25%;"><a href="https://yveitsman.xyz"><img src="images/YanaVeitsman.png" alt="Profile picture of Yana Veitsman" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
 
 
