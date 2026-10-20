@@ -45,6 +45,7 @@ TBD
 TBD
   
 ---
+## HumanCLAIM 2026 Highlights
 ![Impressions from previous HumanCLAIM (2026)](images/HumanClaim2026_impressions.png?raw=true "HumanCLAIM 2026")
 
 ---
