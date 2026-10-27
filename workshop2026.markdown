@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanCLAIM Workshop
+title: HumanCLAIM Workshop - Old
 description: The Human Perspective on Cross-Lingual AI Models
 ---
 
