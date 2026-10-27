@@ -18,19 +18,19 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 **End:** 🕒 Thursday, March 18th, 2027, TBD <br>
 **Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
 Participation in the workshop is free of charge but the number of participants is limited. <br>
-Please register using <a href="https://survey.academiccloud.de/f/191589?lang=en target='_blank'>this</a> form. <br>
+Please register using <a href="https://survey.academiccloud.de/f/191589?lang=en" target="_blank">this</a> form. <br>
 
 ---
 ## **Keynote Speakers**  
 <table style="border: hidden;">
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.linkedin.com/in/eva-vanmassenhove/"><img src="images/Eva_Vanmassenhove.jpg" alt="Profile picture of Eva Vanmassenhove" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://www.linkedin.com/in/eva-vanmassenhove/"><img src="images/Eva_Vanmassenhove.jpg" alt="Profile picture of Eva Vanmassenhove" style="max-height:20em; width:75%; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden;"><a href="https://www.linkedin.com/in/eva-vanmassenhove/"><b>Eva Vanmassenhove</b></a> (Tilburg University, Netherlands)<br><em>Title: Losing our Tail, Again: (Un)Natural Selection and Multilingual LLMs</em> 
   </td>
  </tr>
  <tr style="border: hidden;">
-  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://blvns.github.io/"><img src="images/Byung-Doh_Oh.jpg" alt="Profile picture of Byung-Doh Oh" style="max-height:20em; width:auto; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
+  <td style="border: hidden; padding: 2px; vertical-align: middle;"><a href="https://blvns.github.io/"><img src="images/Byung-Doh_Oh.jpg" alt="Profile picture of Byung-Doh Oh" style="max-height:20em; width:75%; object-fit: contain; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);"></a>
   </td>
   <td style="border: hidden;"><a href="https://byungdoh.github.io/"><b>Byung-Doh Oh</b></a> (NTU, Singapore)<br><em>Title: Moving Beyond Surprisal-Based Modeling: Parafoveal Preview and Rereading</em>
   </td>
