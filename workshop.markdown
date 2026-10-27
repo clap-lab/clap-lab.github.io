@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanCLAIM Workshop
+title: HumanCLAIM Workshop 2027
 description: The Human Perspective on Cross-Lingual AI Models
 ---
 
