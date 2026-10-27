@@ -18,7 +18,7 @@ In this workshop, we want to bring together leading scholars from linguistics, c
 **End:** 🕒 Thursday, March 18th, 2027, TBD <br>
 **Where:** 📍 <a href="https://www.uni-goettingen.de/en/96209.html">Historische Sternwarte</a> in Göttingen (<a href="https://maps.app.goo.gl/6HCMp4RPkBHpusDRA">Google Maps</a>)<br>
 Participation in the workshop is free of charge but the number of participants is limited. <br>
-Please [register](#registration) using the form at the bottom of this page. <br>
+Please register using <a href="https://survey.academiccloud.de/f/191589?lang=en target='_blank'>this</a> form. <br>
 
 ---
 ## **Keynote Speakers**  
@@ -95,5 +95,3 @@ Curious about previous editions? Visit the websites for [HumanCLAIM 2026](/works
 ## Funding
 The workshop is funded by *zukunft.niedersachsen*, the joint science funding program of the Lower Saxony Ministry of Science and Culture and the Volkswagen Foundation.
 <a href="https://zukunft.niedersachsen.de/en/"><img src="images/RZ_VWS_Zukunft-Niedersachsen_Logo_Schwarz_RGB.png" style="max-height:10em; width:auto; object-fit: contain;"></a>
-
-## Registration
